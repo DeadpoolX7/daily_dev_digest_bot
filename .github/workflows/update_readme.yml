@@ -1,0 +1,38 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests feedparser beautifulsoup4
+
+      - name: Fetch new data
+        run: |
+          python scripts/fetch_jobs.py
+          python scripts/fetch_freelance.py
+          python scripts/fetch_articles.py
+
+      - name: Update README
+        run: python scripts/update_readme.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md data/*.json
+          git commit -m "Updated README with latest content" || echo "No changes to commit"
+          git push

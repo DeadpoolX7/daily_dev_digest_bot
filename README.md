@@ -1,0 +1,42 @@
+# 📢 Daily Dev Digest
+
+### 💼 Latest Job Listings
+- [Social Media Manager &amp; Meme Artist](https://remoteOK.com/remote-jobs/remote-social-media-manager-amp-meme-artist-ethena-labs-1084844)
+- [UI UX Designer](https://remoteOK.com/remote-jobs/remote-ui-ux-designer-ethena-labs-1084843)
+- [Technical Writer](https://remoteOK.com/remote-jobs/remote-technical-writer-ethena-labs-1084835)
+- [Marketing Lead](https://remoteOK.com/remote-jobs/remote-marketing-lead-ethena-labs-1084834)
+- [Senior Product Manager Agentic Workflows](https://remoteOK.com/remote-jobs/remote-senior-product-manager-agentic-workflows-trueml-1084780)
+- [Software Engineer Intern](https://remoteOK.com/remote-jobs/remote-software-engineer-intern-atlan-1084779)
+- [GL Accountant](https://remoteOK.com/remote-jobs/remote-gl-accountant-teamshares-1084778)
+- [Outlier AI: Remote Coding Expertise for AI Training (Danish)](https://weworkremotely.com/remote-jobs/outlier-ai-remote-coding-expertise-for-ai-training-danish)
+- [Outlier AI: Remote Coding Expertise for AI Training (Norwegian)](https://weworkremotely.com/remote-jobs/outlier-ai-remote-coding-expertise-for-ai-training-norwegian)
+- [SKYCATCHFIRE: Senior React Developer](https://weworkremotely.com/remote-jobs/skycatchfire-senior-react-developer)
+- [Lemon.io: Senior React & Python Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-python-developer-3)
+- [SKYCATCHFIRE: Senior Django Developer](https://weworkremotely.com/remote-jobs/skycatchfire-senior-django-developer)
+- [Bitovi: Frontend Developer Consultant (Nearshore)](https://weworkremotely.com/remote-jobs/bitovi-frontend-developer-consultant-nearshore)
+- [Quizgecko.com: React Native Developer](https://weworkremotely.com/remote-jobs/quizgecko-com-react-native-developer)
+
+### 🎯 Freelance Opportunities
+- [Outdoor Entertaining Gazebo Design](https://www.freelancer.com/projects/autocad/Outdoor-Entertaining-Gazebo-Design.html)
+- [Dynamics 365 Business Central Finance Expert](https://www.freelancer.com/projects/finance/Dynamics-Business-Central-Finance-Expert.html)
+- [Comprehensive YouTube Video Editing](https://www.freelancer.com/projects/after-effects/Comprehensive-YouTube-Video-Editing.html)
+- [Cross-Platform Stock Screener App Development](https://www.freelancer.com/projects/android/Cross-Platform-Stock-Screener-App.html)
+- [Intuitive Customer Experience App for Shop](https://www.freelancer.com/projects/mobile-app-development/Intuitive-Customer-Experience-App-for.html)
+- [Mailchimp Campaign Management for Services Promotion](https://www.freelancer.com/projects/mailchimp/Mailchimp-Campaign-Management-for.html)
+- [Web-based Staff Attendance &amp; Commission System](https://www.freelancer.com/projects/php/Web-based-Staff-Attendance-Commission.html)
+
+### 📝 Latest Tech Articles
+- [Building Distributed Systems with Node.js.](https://dev.to/sfundomhlungu/building-distributed-systems-with-nodejs-1b12)
+- [How To Build A Raw TCP Server Where Every Millisecond Counts.](https://dev.to/sfundomhlungu/how-to-build-a-raw-tcp-server-where-every-millisecond-counts-55lm)
+- [Buffers in Node.js: What They Do & Why You Should Care](https://dev.to/sfundomhlungu/buffers-in-nodejs-what-they-do-why-you-should-care-46p1)
+- [Friendship : Human - AI on AWS infrastructure.](https://dev.to/vdm/friendship-human-ai-on-aws-infrastructure-3691)
+- [Stage Conclusion: UI-Tars + RAG = A New Approach for Automated E2E & Exploratory Testing (Part 3)](https://dev.to/robin_xuan_nl/stage-conclusion-ui-tars-rag-a-new-approach-for-automated-e2e-exploratory-testing-part-3-p65)
+- [Fundamental Concepts in Cloud Computing](https://dev.to/tenney/fundamental-concepts-in-cloud-computing-2b9g)
+- [Exploring Netflix's Cloud Infrastructure](https://dev.to/itsyndicate/exploring-netflixs-cloud-infrastructure-4geb)
+- [Boosting Symfony Performance with Symfony Runtime and OpenSwoole](https://medium.com/symfony-mastery/boosting-symfony-performance-with-symfony-runtime-and-openswoole-960723974ad7?source=rss------programming-5)
+- [https:// s.o/car](https://medium.com/@SkonioSprain/https-s-o-car-f66de766b9ad?source=rss------programming-5)
+- [Why You Should Use Neovim: 10 Reasons Developers Will Love It](https://medium.com/@mridul.gelal/why-you-should-use-neovim-10-reasons-developers-will-love-it-352a7f3d458d?source=rss------programming-5)
+- [The Perfectionist Trap in Programming: How I Learned to Write Effective Code](https://medium.com/@randyahmat76/the-perfectionist-trap-in-programming-how-i-learned-to-write-effective-code-32c4e48f67b8?source=rss------programming-5)
+- [Interview 26: Actors, Sendable, and Strict Concurrency in Swift 6](https://medium.com/@mihaipopa/interview-26-actors-sendable-and-strict-concurrency-in-swift-6-97d951daf36f?source=rss------programming-5)
+- [امروزه، آموزش بدون چت‌بات‌های آموزشی شدنیست؟، به گفتار یارابات](https://medium.com/@info.yaragroup/%D8%A7%D9%85%D8%B1%D9%88%D8%B2%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A8%D8%AF%D9%88%D9%86-%DA%86%D8%AA-%D8%A8%D8%A7%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%B4%D8%AF%D9%86%DB%8C%D8%B3%D8%AA-%D8%A8%D9%87-%DA%AF%D9%81%D8%AA%D8%A7%D8%B1-%DB%8C%D8%A7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-a64fd2d75675?source=rss------programming-5)
+- [This day I should devote to a hasty glimpse of the world: past and present.](https://medium.com/@ehsankhan0981us/this-day-i-should-devote-to-a-hasty-glimpse-of-the-world-past-and-present-271c1d59cb39?source=rss------programming-5)
