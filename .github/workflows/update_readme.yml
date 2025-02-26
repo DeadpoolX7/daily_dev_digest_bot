@@ -18,10 +18,11 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install requests feedparser beautifulsoup4
+        run: pip install -r requirements.txt
 
       - name: Fetch new data
         run: |
+          export PYTHONPATH="${PYTHONPATH}:$(pwd)"
           python scripts/fetch_jobs.py
           python scripts/fetch_freelance.py
           python scripts/fetch_articles.py
