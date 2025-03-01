@@ -1,58 +1,58 @@
 [
     {
-        "title": "Building Distributed Systems with Node.js.",
-        "link": "https://dev.to/sfundomhlungu/building-distributed-systems-with-nodejs-1b12"
+        "title": "\ud83d\ude80 Build Better Projects: 10 Online Tools for Debugging & Testing You Can\u2019t Miss!",
+        "link": "https://dev.to/dct_technologyprivatelimited/build-better-projects-10-online-tools-for-debugging-testing-you-cant-miss-li3"
     },
     {
-        "title": "How To Build A Raw TCP Server Where Every Millisecond Counts.",
-        "link": "https://dev.to/sfundomhlungu/how-to-build-a-raw-tcp-server-where-every-millisecond-counts-55lm"
+        "title": "ISOC IWD '25 - Building a simple Landing Page",
+        "link": "https://dev.to/gifty_asamoah/isoc-iwd-25-building-a-simple-landing-page-4j2j"
     },
     {
-        "title": "Buffers in Node.js: What They Do & Why You Should Care",
-        "link": "https://dev.to/sfundomhlungu/buffers-in-nodejs-what-they-do-why-you-should-care-46p1"
+        "title": "Progressive web app styling",
+        "link": "https://dev.to/santattech/progressive-web-app-styling-52ho"
     },
     {
-        "title": "Friendship : Human - AI on AWS infrastructure.",
-        "link": "https://dev.to/vdm/friendship-human-ai-on-aws-infrastructure-3691"
+        "title": "My First Novel and other Inspirations and Messages",
+        "link": "https://dev.to/thomas_koszoru/my-first-novel-and-other-inspirations-and-messages-555o"
     },
     {
-        "title": "Stage Conclusion: UI-Tars + RAG = A New Approach for Automated E2E & Exploratory Testing (Part 3)",
-        "link": "https://dev.to/robin_xuan_nl/stage-conclusion-ui-tars-rag-a-new-approach-for-automated-e2e-exploratory-testing-part-3-p65"
+        "title": "Building an Application as a Beta User of the Low-Code Solution 'AWS App Studio': Cons (Part 2 of 2)",
+        "link": "https://dev.to/aws-heroes/building-an-application-as-a-beta-user-of-the-low-code-solution-aws-app-studio-cons-part-2-of-2-4ipb"
     },
     {
-        "title": "Fundamental Concepts in Cloud Computing",
-        "link": "https://dev.to/tenney/fundamental-concepts-in-cloud-computing-2b9g"
+        "title": "How I Passed the AZ-900 Exam: My Study Plan, Resources &\u00a0Tips",
+        "link": "https://dev.to/jeshlin_pv_1628a63168e90/how-i-passed-the-az-900-exam-my-study-plan-resources-tips-2cam"
     },
     {
-        "title": "Exploring Netflix's Cloud Infrastructure",
-        "link": "https://dev.to/itsyndicate/exploring-netflixs-cloud-infrastructure-4geb"
+        "title": "Running Private Adguard Server on Cloud (Linode)",
+        "link": "https://dev.to/prajwol-ad/running-private-adguard-server-on-cloud-linode-18ef"
     },
     {
-        "title": "Boosting Symfony Performance with Symfony Runtime and OpenSwoole",
-        "link": "https://medium.com/symfony-mastery/boosting-symfony-performance-with-symfony-runtime-and-openswoole-960723974ad7?source=rss------programming-5"
+        "title": "Unleashing the Power of Java FFI in JDK 24",
+        "link": "https://medium.com/@alpesh.ccet/unleashing-the-power-of-java-ffi-in-jdk-24-02181fe1042d?source=rss------programming-5"
     },
     {
-        "title": "https:// s.o/car",
-        "link": "https://medium.com/@SkonioSprain/https-s-o-car-f66de766b9ad?source=rss------programming-5"
+        "title": "Python: Variables",
+        "link": "https://nileshsaini09.medium.com/python-variables-1a037b12d447?source=rss------programming-5"
     },
     {
-        "title": "Why You Should Use Neovim: 10 Reasons Developers Will Love It",
-        "link": "https://medium.com/@mridul.gelal/why-you-should-use-neovim-10-reasons-developers-will-love-it-352a7f3d458d?source=rss------programming-5"
+        "title": "Bitcoin\u2019s Future: Disrupting Global Finance or Fading Hype?",
+        "link": "https://medium.com/@meklatianis/bitcoins-future-disrupting-global-finance-or-fading-hype-2a498207a74e?source=rss------programming-5"
     },
     {
-        "title": "The Perfectionist Trap in Programming: How I Learned to Write Effective Code",
-        "link": "https://medium.com/@randyahmat76/the-perfectionist-trap-in-programming-how-i-learned-to-write-effective-code-32c4e48f67b8?source=rss------programming-5"
+        "title": "Personal finance is a topic that's relevant to everyone and generates consistent interest",
+        "link": "https://medium.com/@tstasleem05/personal-finance-is-a-topic-thats-relevant-to-everyone-and-generates-consistent-interest-b82dfceb8e53?source=rss------programming-5"
     },
     {
-        "title": "Interview 26: Actors, Sendable, and Strict Concurrency in Swift 6",
-        "link": "https://medium.com/@mihaipopa/interview-26-actors-sendable-and-strict-concurrency-in-swift-6-97d951daf36f?source=rss------programming-5"
+        "title": "Mastering SQL: Secrets of GROUP BY and PARTITION BY",
+        "link": "https://medium.com/@vijaygadhave2014/mastering-sql-secrets-of-group-by-and-partition-by-261d99112424?source=rss------programming-5"
     },
     {
-        "title": "\u0627\u0645\u0631\u0648\u0632\u0647\u060c \u0622\u0645\u0648\u0632\u0634 \u0628\u062f\u0648\u0646 \u0686\u062a\u200c\u0628\u0627\u062a\u200c\u0647\u0627\u06cc \u0622\u0645\u0648\u0632\u0634\u06cc \u0634\u062f\u0646\u06cc\u0633\u062a\u061f\u060c \u0628\u0647 \u06af\u0641\u062a\u0627\u0631 \u06cc\u0627\u0631\u0627\u0628\u0627\u062a",
-        "link": "https://medium.com/@info.yaragroup/%D8%A7%D9%85%D8%B1%D9%88%D8%B2%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A8%D8%AF%D9%88%D9%86-%DA%86%D8%AA-%D8%A8%D8%A7%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%B4%D8%AF%D9%86%DB%8C%D8%B3%D8%AA-%D8%A8%D9%87-%DA%AF%D9%81%D8%AA%D8%A7%D8%B1-%DB%8C%D8%A7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-a64fd2d75675?source=rss------programming-5"
+        "title": "I am Starting My journey as a Bug Bounty Hunter.",
+        "link": "https://medium.com/@ramandeepkundu/i-am-starting-my-journey-as-a-bug-bounty-hunter-02ca5d87909b?source=rss------programming-5"
     },
     {
-        "title": "This day I should devote to a hasty glimpse of the world: past and present.",
-        "link": "https://medium.com/@ehsankhan0981us/this-day-i-should-devote-to-a-hasty-glimpse-of-the-world-past-and-present-271c1d59cb39?source=rss------programming-5"
+        "title": "Master JavaScript Before Diving into LeetCode",
+        "link": "https://medium.com/@pavan1419/master-javascript-before-diving-into-leetcode-a09f7522b3e9?source=rss------programming-5"
     }
 ]
