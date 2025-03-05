@@ -1,5 +1,25 @@
 [
     {
+        "title": "DevOps Engineer II",
+        "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-ii-tala-1086057"
+    },
+    {
+        "title": "DevOps Engineer",
+        "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-hawk-1086056"
+    },
+    {
+        "title": "Engineering Manager",
+        "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-mercari-1086055"
+    },
+    {
+        "title": "Marketing Lead",
+        "link": "https://remoteOK.com/remote-jobs/remote-marketing-lead-flow-foundation-1086016"
+    },
+    {
+        "title": "Frontend Web Developer",
+        "link": "https://remoteOK.com/remote-jobs/remote-frontend-web-developer-wing-assistant-1085946"
+    },
+    {
         "title": "Data Analyst",
         "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-kyivstar-1085843"
     },
@@ -8,24 +28,12 @@
         "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-front-end-pendo-1085827"
     },
     {
-        "title": "Marketing Specialist",
-        "link": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-1840-amp-company-1085818"
+        "title": "Murmuration: Staff Software Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/murmuration-staff-software-engineer-1"
     },
     {
-        "title": "Editor The Product Manager",
-        "link": "https://remoteOK.com/remote-jobs/remote-editor-the-product-manager-black-amp-white-zebra-1085555"
-    },
-    {
-        "title": "Senior DevOps Engineer",
-        "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-fetlife-1085532"
-    },
-    {
-        "title": "E commerce Operations Manager",
-        "link": "https://remoteOK.com/remote-jobs/remote-e-commerce-operations-manager-1840-amp-company-1085522"
-    },
-    {
-        "title": "Full Stack Software Engineer",
-        "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-slidespeak-ai-1085473"
+        "title": "Soar Financials: Senior Backend Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/soar-financials-senior-backend-engineer"
     },
     {
         "title": "Constable.co.uk: Frontend Developer \u2013 Leading Sports Brand",
@@ -46,13 +54,5 @@
     {
         "title": "Silverfin: Team Lead Product - Engineering Team",
         "link": "https://weworkremotely.com/remote-jobs/silverfin-team-lead-product-engineering-team"
-    },
-    {
-        "title": "Silverfin: Experienced Ruby Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-engineer"
-    },
-    {
-        "title": "Silverfin: Ruby Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/silverfin-ruby-engineer"
     }
 ]
