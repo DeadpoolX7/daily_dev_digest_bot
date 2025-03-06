@@ -1,5 +1,13 @@
 [
     {
+        "title": "Senior Engineer Fullstack Engineer",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-engineer-fullstack-engineer-okta-inc-1086227"
+    },
+    {
+        "title": "Senior Product Manager Authentication T\u00fcrkiye",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-authentication-turkiye-jumpcloud-1086158"
+    },
+    {
         "title": "DevOps Engineer II",
         "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-ii-tala-1086057"
     },
@@ -20,12 +28,20 @@
         "link": "https://remoteOK.com/remote-jobs/remote-frontend-web-developer-wing-assistant-1085946"
     },
     {
-        "title": "Data Analyst",
-        "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-kyivstar-1085843"
+        "title": "BaxEnergy: Staff Software Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/baxenergy-staff-software-engineer"
     },
     {
-        "title": "Software Engineer Front End",
-        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-front-end-pendo-1085827"
+        "title": "GrowthX: Founding Product Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/growthx-founding-product-engineer"
+    },
+    {
+        "title": "Breakthrough Design Group: Web Developer / Designer",
+        "link": "https://weworkremotely.com/remote-jobs/breakthrough-design-group-web-developer-designer"
+    },
+    {
+        "title": "Soar Financials: Frontend Engineering Manager",
+        "link": "https://weworkremotely.com/remote-jobs/soar-financials-frontend-engineering-manager"
     },
     {
         "title": "Murmuration: Staff Software Engineer",
@@ -38,21 +54,5 @@
     {
         "title": "Constable.co.uk: Frontend Developer \u2013 Leading Sports Brand",
         "link": "https://weworkremotely.com/remote-jobs/constable-co-uk-frontend-developer-leading-sports-brand"
-    },
-    {
-        "title": "Sanctuary Computer: Experienced Full-stack Developer",
-        "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-experienced-full-stack-developer-1"
-    },
-    {
-        "title": "Manual: Backend Typescript Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/manual-backend-typescript-engineer"
-    },
-    {
-        "title": "Fixa: Lead Engineer (Full-Stack)",
-        "link": "https://weworkremotely.com/remote-jobs/fixa-lead-engineer-full-stack"
-    },
-    {
-        "title": "Silverfin: Team Lead Product - Engineering Team",
-        "link": "https://weworkremotely.com/remote-jobs/silverfin-team-lead-product-engineering-team"
     }
 ]
