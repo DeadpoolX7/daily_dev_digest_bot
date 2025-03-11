@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dakoda.ai: Frontend Developer",
+        "link": "https://weworkremotely.com/remote-jobs/dakoda-ai-frontend-developer"
+    },
+    {
         "title": "Inovo Studios: Full Stack Javascript Developer (Shape Up + Small team)",
         "link": "https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team"
     },
@@ -22,9 +26,5 @@
     {
         "title": "Volatus Health: Senior Fullstack Engineer",
         "link": "https://weworkremotely.com/remote-jobs/volatus-health-senior-fullstack-engineer"
-    },
-    {
-        "title": "Sanctuary Computer: Internet of Things Technical Lead",
-        "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-internet-of-things-technical-lead"
     }
 ]
