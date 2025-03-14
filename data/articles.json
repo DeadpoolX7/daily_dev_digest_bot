@@ -1,58 +1,58 @@
 [
     {
-        "title": "from fpdf import FPDF # Membuat objek PDF pdf = FPDF() pdf.set_auto_page_break(auto=True, margin=15) pdf.add_page() pdf.set_font(\"Arial\", style='', size=12) # Cover pdf.set_font(\"Arial\", style='B', size=16) pdf.cell(200, 10, \"KAJIAN TEORI: TEORI DAN PRAK",
-        "link": "https://dev.to/lula_moon_62d5dba26e056e0/from-fpdf-import-fpdf-membuat-objek-pdf-pdf-fpdf-pdfsetautopagebreakautotrue-k2p"
+        "title": "Why do carpets have to be tested for 16CFR1630 surface flammability?",
+        "link": "https://dev.to/rebecca_zhang_53170276935/why-do-carpets-have-to-be-tested-for-16cfr1630-surface-flammability-15o2"
     },
     {
-        "title": "React Native Project | Build Full Stack React Native App with Expo, & Strapi | AI Recipe Generator",
-        "link": "https://dev.to/rrs301/react-native-project-build-full-stack-react-native-app-with-expo-strapi-ai-recipe-generator-24f"
+        "title": "Are 16 CFR 1632 and 16 CFR 1633 the same?",
+        "link": "https://dev.to/rebecca_zhang_53170276935/are-16-cfr-1632-and-16-cfr-1633-the-same-5akj"
     },
     {
-        "title": "Creative Commons Zero 1.0: A Gateway to Unencumbered Innovation",
-        "link": "https://dev.to/laetitiaperraut/creative-commons-zero-10-a-gateway-to-unencumbered-innovation-4hl5"
+        "title": "How to Export Sqlite Data to a Csv File in 2025?",
+        "link": "https://dev.to/jordankeurope/how-to-export-sqlite-data-to-a-csv-file-in-2025-3j2p"
     },
     {
-        "title": "Integrating VR and AI for Immersive Digital Twins",
-        "link": "https://dev.to/kartikmehta8/integrating-vr-and-ai-for-immersive-digital-twins-d3o"
+        "title": "Show Dev: Introducing Protect.js",
+        "link": "https://dev.to/cipherstash/show-dev-introducing-protectjs-53al"
     },
     {
-        "title": "Unveiling the Legacy of the BSD 4-Clause License",
-        "link": "https://dev.to/kallileiser/unveiling-the-legacy-of-the-bsd-4-clause-license-m2i"
+        "title": "Officially Providing Mentoring to Participants of the Upcoming KendoReact Free Components Challenge",
+        "link": "https://dev.to/d2d_weizhi/officially-providing-mentoring-to-participants-of-the-upcoming-kendoreact-free-components-challenge-2fk7"
     },
     {
-        "title": "Introducing DoCoreAI: Unlock AI\u2019s Potential in Dynamic Prompt Tuning",
-        "link": "https://dev.to/sajijohn/introducing-docoreai-unlock-ais-potential-in-dynamic-prompt-tuning-39i3"
+        "title": "WANE_ECODEDigital",
+        "link": "https://dev.to/siley_wane_99285a2e0ebcb2/waneecodedigital-4bal"
     },
     {
-        "title": "Essential Linux Commands List: Usage, Examples & Explanations",
-        "link": "https://dev.to/tene/essential-linux-commands-list-usage-examples-explanations-17i4"
+        "title": "Course design cards #scss",
+        "link": "https://dev.to/rumman157/course-design-cards-scss-2p2n"
     },
     {
-        "title": "ihbjbj",
-        "link": "https://medium.com/@fylm53959/ihbjbj-deb7036a5257?source=rss------programming-5"
+        "title": "Yffy",
+        "link": "https://medium.com/@hcchufdyfuuf/yffy-a3c6c6b7cf18?source=rss------programming-5"
     },
     {
-        "title": "kijhihi",
-        "link": "https://medium.com/@fylm53959/kijhihi-c3b1b58fd814?source=rss------programming-5"
+        "title": "Fdt",
+        "link": "https://medium.com/@hcchufdyfuuf/fdt-696dfa153d73?source=rss------programming-5"
     },
     {
-        "title": "jvbjcuv",
-        "link": "https://medium.com/@fylm53959/jvbjcuv-7fc6056cc1a5?source=rss------programming-5"
+        "title": "Hg",
+        "link": "https://medium.com/@hcchufdyfuuf/hg-7655f256592f?source=rss------programming-5"
     },
     {
-        "title": "How Are You Coding Today? The AI Revolution in Software Development",
-        "link": "https://medium.com/@rictorres.uyu/how-are-you-coding-today-the-ai-revolution-in-software-development-bca466fd4915?source=rss------programming-5"
+        "title": "UI/UX Explanation Overview",
+        "link": "https://medium.com/@athazaydan47/ui-ux-explanation-overview-778801113a45?source=rss------programming-5"
     },
     {
-        "title": "This is what the iPhone 17 Air looks like",
-        "link": "https://medium.com/@mtomcrack/this-is-what-the-iphone-17-air-looks-like-a456d904b2fb?source=rss------programming-5"
+        "title": "Dfg",
+        "link": "https://medium.com/@ngar3732/dfg-e95db5e15e15?source=rss------programming-5"
     },
     {
-        "title": "Free API by Hitesh Choudhary: An Open-Source Backend for Practicing API Development",
-        "link": "https://themindshift.medium.com/free-api-by-hitesh-choudhary-an-open-source-backend-for-practicing-api-development-e33cbde2146b?source=rss------programming-5"
+        "title": "Dhgd",
+        "link": "https://medium.com/@ngar3732/dhgd-5211911222b5?source=rss------programming-5"
     },
     {
-        "title": "Ghhhhh",
-        "link": "https://medium.com/@zcggfgfhhggfff/ghhhhh-ccd686e0c940?source=rss------programming-5"
+        "title": "Hssj",
+        "link": "https://medium.com/@ngar3732/hssj-f12dfb555ece?source=rss------programming-5"
     }
 ]
