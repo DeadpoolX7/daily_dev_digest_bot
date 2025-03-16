@@ -1,5 +1,21 @@
 [
     {
+        "title": "Proton.ai: Senior Backend Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer"
+    },
+    {
+        "title": "Freeman's | Hindman: Lead Software Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/freeman-s-hindman-lead-software-engineer"
+    },
+    {
+        "title": "Edge Network: Distributed Systems Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/edge-network-distributed-systems-engineer"
+    },
+    {
+        "title": "MailerLite: PHP Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/mailerlite-php-engineer"
+    },
+    {
         "title": "Float: Senior Data Engineer",
         "link": "https://weworkremotely.com/remote-jobs/float-senior-data-engineer-1"
     },
@@ -10,21 +26,5 @@
     {
         "title": "Source: Senior Software Engineer, Backend",
         "link": "https://weworkremotely.com/remote-jobs/source-senior-software-engineer-backend"
-    },
-    {
-        "title": "Edge Network: Frontend Web Developer",
-        "link": "https://weworkremotely.com/remote-jobs/edge-network-frontend-web-developer"
-    },
-    {
-        "title": "Elevate Labs: Senior Front End Web Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/elevate-labs-senior-front-end-web-engineer-2"
-    },
-    {
-        "title": "MDCalc: Senior Full Stack Engineer (Remote)",
-        "link": "https://weworkremotely.com/remote-jobs/mdcalc-senior-full-stack-engineer-remote-1"
-    },
-    {
-        "title": "CodeSignal: Sr. Software Engineer, Simulation",
-        "link": "https://weworkremotely.com/remote-jobs/codesignal-sr-software-engineer-simulation"
     }
 ]
