@@ -1,58 +1,58 @@
 [
     {
-        "title": "Hello, devs! \ud83d\udc4b",
-        "link": "https://dev.to/nikhilgoesfullstack/hello-devs-4f27"
+        "title": "Introduction to set theory with Python. Part II.",
+        "link": "https://dev.to/eaarroyo/introduction-to-set-theory-with-python-part-ii-3m54"
     },
     {
-        "title": "Como testes mudaram minha forma de trabalhar",
-        "link": "https://dev.to/h1bertobarbosa/como-testes-mudaram-minha-forma-de-trabalhar-1g0e"
+        "title": "Why I\u2019m Building Astra to Fix Python Deployment Pain",
+        "link": "https://dev.to/herchila/why-im-building-astra-to-fix-python-deployment-pain-1aik"
     },
     {
-        "title": "\"Unlocking Quantum Error Correction: The Power of Chiral Cat Qubits\"",
-        "link": "https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-error-correction-the-power-of-chiral-cat-qubits-5hd2"
+        "title": "6 Day Certs Are Here: Why SSL Certificate Lengths are Getting Shorter",
+        "link": "https://dev.to/cbartlett/6-day-certs-are-here-why-ssl-certificate-lengths-are-getting-shorter-2e46"
     },
     {
-        "title": "Python Tips for Beginners: A Guide to Writing Clean Code",
-        "link": "https://dev.to/adetola_jesulayomi_e3bd55/python-tips-for-beginners-a-guide-to-writing-clean-code-26id"
+        "title": "Exploring the CUA Office Public License 1.0: A Deep Dive into Ethical Open Source Licensing",
+        "link": "https://dev.to/jennythomas498/exploring-the-cua-office-public-license-10-a-deep-dive-into-ethical-open-source-licensing-28kp"
     },
     {
-        "title": "Mastering Timers in React: A Comprehensive Developer's Guide",
-        "link": "https://dev.to/jsdevspace/mastering-timers-in-react-a-comprehensive-developers-guide-462p"
+        "title": "Building Brain-Computer Interface Applications",
+        "link": "https://dev.to/kartikmehta8/building-brain-computer-interface-applications-44c"
     },
     {
-        "title": "Daily JavaScript Challenge #JS-128: Find First Non-Repeated Word in a Sentence",
-        "link": "https://dev.to/dpc/daily-javascript-challenge-js-128-find-first-non-repeated-word-in-a-sentence-d1h"
+        "title": "Fazendo um proxy reverso em Go",
+        "link": "https://dev.to/jeffque/fazendo-um-proxy-reverso-em-go-anh"
     },
     {
-        "title": "\ud83d\ude80 Micro Frontend Turborepo Starter: A Scalable Approach to Frontend Development",
-        "link": "https://dev.to/imevanc/micro-frontend-turborepo-starter-a-scalable-approach-to-frontend-development-6jo"
+        "title": "Optimizing .NET 8 Minimal APIs for Cloud-Native Microservices: Docker & Kubernetes Best Practices",
+        "link": "https://dev.to/leandroveiga/optimizing-net-8-minimal-apis-for-cloud-native-microservices-docker-kubernetes-best-practices-24f9"
     },
     {
-        "title": "\u0914\u0930\u0924 \u0905\u0917\u0930 \u0939\u092e\u0947 #\u0938\u092e\u094d\u092d\u094b\u0917 \u0915\u093e \u0938\u0941\u0916 \u0926\u0947\u0924\u0940 \u0939\u0948 \u0924\u094b \u0939\u092e \u0909\u0938\u0915\u0947 \u0935\u093f\u0935\u0936 \u0939\u094b \u091c\u093e\u0924\u0947 \u0939\u0948 \u0914\u0930 \u0939\u092e\u0947 \u0909\u0938\u0915\u0940 \u0939\u0930 \u092c\u093e\u0924 \u092e\u093e\u0928\u0928\u0940 \u092a\u0921\u093c\u0924\u0940 \u0939\u0948\u0964",
-        "link": "https://medium.com/@ankeshkumarsaini1/%E0%A4%94%E0%A4%B0%E0%A4%A4-%E0%A4%85%E0%A4%97%E0%A4%B0-%E0%A4%B9%E0%A4%AE%E0%A5%87-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A5%8B%E0%A4%97-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A5%81%E0%A4%96-%E0%A4%A6%E0%A5%87%E0%A4%A4%E0%A5%80-%E0%A4%B9%E0%A5%88-%E0%A4%A4%E0%A5%8B-%E0%A4%B9%E0%A4%AE-%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B6-%E0%A4%B9%E0%A5%8B-%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A5%87-%E0%A4%B9%E0%A5%88-%E0%A4%94%E0%A4%B0-%E0%A4%B9%E0%A4%AE%E0%A5%87-%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%80-%E0%A4%B9%E0%A4%B0-%E0%A4%AC%E0%A4%BE%E0%A4%A4-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%A8%E0%A5%80-%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A4%A4%E0%A5%80-%E0%A4%B9%E0%A5%88-75f7cac62e2d?source=rss------programming-5"
+        "title": "Java Object-Oriented Programming for Beginners: Step-by-Step Guide",
+        "link": "https://medium.com/@navarend/java-object-oriented-programming-for-beginners-step-by-step-guide-77ef6aa3b890?source=rss------programming-5"
     },
     {
-        "title": "Fdh",
-        "link": "https://medium.com/@drsa08882/fdh-d00f53accae9?source=rss------programming-5"
+        "title": "Breaking the Scroll: How MOMENTUM Balances Social Media and Goals",
+        "link": "https://medium.com/@guilherme.a.m.tiossi/breaking-the-scroll-how-momentum-balances-social-media-and-goals-5c966d0cd501?source=rss------programming-5"
     },
     {
-        "title": "Hshd",
-        "link": "https://medium.com/@drsa08882/hshd-b7a4c9aadc48?source=rss------programming-5"
+        "title": "How to Install Python on Your PC: A Step by Step Guide for Beginners",
+        "link": "https://kennyswrites.medium.com/how-to-install-python-on-your-pc-a-step-by-step-guide-for-beginners-e1802e246a52?source=rss------programming-5"
     },
     {
-        "title": "Fhfghf",
-        "link": "https://medium.com/@drsa08882/fhfghf-e9d9a5cc6fa6?source=rss------programming-5"
+        "title": "Bicep Language: Connecting Azure API Management to Azure OpenAI via Application Gateway.",
+        "link": "https://medium.com/@daverendon/bicep-language-connecting-azure-api-management-to-azure-openai-via-application-gateway-e092784b41c8?source=rss------programming-5"
     },
     {
-        "title": "hxjxj",
-        "link": "https://medium.com/@sgugisgsjv/hxjxj-3dbe5dc2983f?source=rss------programming-5"
+        "title": "Creating a Login Page with Python Flask, HTML, CSS, and JavaScript",
+        "link": "https://almufid.medium.com/creating-a-login-page-with-python-flask-html-css-and-javascript-afd1f890bb87?source=rss------programming-5"
     },
     {
-        "title": "Revolutionizing Event Engagement: Treasure Hunts with NFT 3D Animations and NFC Integration",
-        "link": "https://medium.com/@web3dev.world/revolutionizing-event-engagement-treasure-hunts-with-nft-3d-animations-and-nfc-integration-ff5947a69347?source=rss------programming-5"
+        "title": "hfuffujfh",
+        "link": "https://medium.com/@fhtjfhfhfh/hfuffujfh-29b5d3a3f791?source=rss------programming-5"
     },
     {
-        "title": "The Magical Realm of ORM Relationships",
-        "link": "https://medium.com/@9733/the-magical-realm-of-orm-relationships-12312efc307f?source=rss------programming-5"
+        "title": "fhfhffh",
+        "link": "https://medium.com/@fhtjfhfhfh/fhfhffh-95ffebf6fee3?source=rss------programming-5"
     }
 ]
