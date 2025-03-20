@@ -1,5 +1,13 @@
 [
     {
+        "title": "AutoGPT: Senior Frontend Engineer at AutoGPT",
+        "link": "https://weworkremotely.com/remote-jobs/autogpt-senior-frontend-engineer-at-autogpt"
+    },
+    {
+        "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+        "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest"
+    },
+    {
         "title": "Learning Tapestry: Senior Full Stack Engineer (Ruby on Rails/React)",
         "link": "https://weworkremotely.com/remote-jobs/learning-tapestry-senior-full-stack-engineer-ruby-on-rails-react"
     },
@@ -18,13 +26,5 @@
     {
         "title": "OnTheGoSystems: RoR&AWS Developer",
         "link": "https://weworkremotely.com/remote-jobs/onthegosystems-ror-aws-developer"
-    },
-    {
-        "title": "OnTheGoSystems: Full-Stack Developer",
-        "link": "https://weworkremotely.com/remote-jobs/onthegosystems-full-stack-developer-4"
-    },
-    {
-        "title": "Proton.ai: Senior Backend Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer"
     }
 ]
