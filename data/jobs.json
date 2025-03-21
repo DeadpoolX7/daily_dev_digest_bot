@@ -1,5 +1,17 @@
 [
     {
+        "title": "ForceMetrics: Senior Software Engineer, Full Stack",
+        "link": "https://weworkremotely.com/remote-jobs/forcemetrics-senior-software-engineer-full-stack"
+    },
+    {
+        "title": "Lemon.io: Senior Full-stack Developer (remote, U.S.)",
+        "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-remote-u-s"
+    },
+    {
+        "title": "Speechify Inc: Senior Software Engineer, Web",
+        "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web"
+    },
+    {
         "title": "AutoGPT: Senior Frontend Engineer at AutoGPT",
         "link": "https://weworkremotely.com/remote-jobs/autogpt-senior-frontend-engineer-at-autogpt"
     },
@@ -14,17 +26,5 @@
     {
         "title": "Subscript: Software Engineer (Frontend, Backend, or Full stack)",
         "link": "https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2"
-    },
-    {
-        "title": "Platform Engineering Labs: Senior Software Engineer - GoLang",
-        "link": "https://weworkremotely.com/remote-jobs/platform-engineering-labs-senior-software-engineer-golang"
-    },
-    {
-        "title": "LatHire: Shopify Developer",
-        "link": "https://weworkremotely.com/remote-jobs/lathire-shopify-developer"
-    },
-    {
-        "title": "OnTheGoSystems: RoR&AWS Developer",
-        "link": "https://weworkremotely.com/remote-jobs/onthegosystems-ror-aws-developer"
     }
 ]
