@@ -1,5 +1,21 @@
 [
     {
+        "title": "Contra: Frontend Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/contra-frontend-engineer-3"
+    },
+    {
+        "title": "Contra: Web Developer",
+        "link": "https://weworkremotely.com/remote-jobs/contra-web-developer-2"
+    },
+    {
+        "title": "danzek.ai: Backend Engineering Consultant",
+        "link": "https://weworkremotely.com/remote-jobs/danzek-ai-backend-engineering-consultant"
+    },
+    {
+        "title": "Motia: Cursor/Windsurf/Cline/Claude-Code Expert / Full-Stack Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/motia-cursor-windsurf-cline-claude-code-expert-full-stack-engineer"
+    },
+    {
         "title": "ForceMetrics: Senior Software Engineer, Full Stack",
         "link": "https://weworkremotely.com/remote-jobs/forcemetrics-senior-software-engineer-full-stack"
     },
@@ -10,21 +26,5 @@
     {
         "title": "Speechify Inc: Senior Software Engineer, Web",
         "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web"
-    },
-    {
-        "title": "AutoGPT: Senior Frontend Engineer at AutoGPT",
-        "link": "https://weworkremotely.com/remote-jobs/autogpt-senior-frontend-engineer-at-autogpt"
-    },
-    {
-        "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
-        "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest"
-    },
-    {
-        "title": "Learning Tapestry: Senior Full Stack Engineer (Ruby on Rails/React)",
-        "link": "https://weworkremotely.com/remote-jobs/learning-tapestry-senior-full-stack-engineer-ruby-on-rails-react"
-    },
-    {
-        "title": "Subscript: Software Engineer (Frontend, Backend, or Full stack)",
-        "link": "https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2"
     }
 ]
