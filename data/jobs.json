@@ -1,5 +1,13 @@
 [
     {
+        "title": "SKYCATCHFIRE: Senior Django Developer",
+        "link": "https://weworkremotely.com/remote-jobs/skycatchfire-senior-django-developer"
+    },
+    {
+        "title": "CoW Protocol: Engineering Manager",
+        "link": "https://weworkremotely.com/remote-jobs/cow-protocol-engineering-manager"
+    },
+    {
         "title": "Search Atlas - Advanced SEO Software: Backend Engineer- Python",
         "link": "https://weworkremotely.com/remote-jobs/search-atlas-advanced-seo-software-backend-engineer-python"
     },
@@ -18,13 +26,5 @@
     {
         "title": "Nordhealth: Senior Full-Stack Engineer (Laravel & Vue)",
         "link": "https://weworkremotely.com/remote-jobs/nordhealth-senior-full-stack-engineer-laravel-vue"
-    },
-    {
-        "title": "Hostaway Opco Oy: Engineering Technical Lead - Node.js - EMEA",
-        "link": "https://weworkremotely.com/remote-jobs/hostaway-engineering-technical-lead-node-js-emea-1"
-    },
-    {
-        "title": "SimplyAnalytics: Senior Frontend Developer",
-        "link": "https://weworkremotely.com/remote-jobs/simplyanalytics-senior-frontend-developer-4"
     }
 ]
