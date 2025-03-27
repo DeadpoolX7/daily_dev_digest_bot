@@ -1,5 +1,17 @@
 [
     {
+        "title": "Collaboration.Ai: Senior Backend Engineer - Data Engineering & AI/LLM Focus",
+        "link": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-backend-engineer-data-engineering-ai-llm-focus"
+    },
+    {
+        "title": "SKYCATCHFIRE: Senior React Developer",
+        "link": "https://weworkremotely.com/remote-jobs/skycatchfire-senior-react-developer"
+    },
+    {
+        "title": "Integration App: Lead Product Engineer, Integration Engine",
+        "link": "https://weworkremotely.com/remote-jobs/integration-app-lead-product-engineer-integration-engine"
+    },
+    {
         "title": "SKYCATCHFIRE: Senior Django Developer",
         "link": "https://weworkremotely.com/remote-jobs/skycatchfire-senior-django-developer"
     },
@@ -14,17 +26,5 @@
     {
         "title": "Zamp: Senior Full-Stack Software Engineer",
         "link": "https://weworkremotely.com/remote-jobs/zamp-senior-full-stack-software-engineer"
-    },
-    {
-        "title": "Doximity: Software Engineer (Python), Data Platform",
-        "link": "https://weworkremotely.com/remote-jobs/doximity-software-engineer-python-data-platform"
-    },
-    {
-        "title": "Ticketsolve: Senior Backend Ruby on Rails Developer",
-        "link": "https://weworkremotely.com/remote-jobs/ticketsolve-senior-backend-ruby-on-rails-developer"
-    },
-    {
-        "title": "Nordhealth: Senior Full-Stack Engineer (Laravel & Vue)",
-        "link": "https://weworkremotely.com/remote-jobs/nordhealth-senior-full-stack-engineer-laravel-vue"
     }
 ]
