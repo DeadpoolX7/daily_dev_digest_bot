@@ -1,35 +1,41 @@
 # 📢 Daily Dev Digest
 
 ### 💼 Latest Job Listings
+- [Collaboration.Ai: Senior Frontend-Focused Full-Stack Engineer - (Next.js/React/Node.js)](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-frontend-focused-full-stack-engineer-next-js-react-node-js)
 - [Collaboration.Ai: Senior Backend Engineer - Data Engineering & AI/LLM Focus](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-backend-engineer-data-engineering-ai-llm-focus)
 - [SKYCATCHFIRE: Senior React Developer](https://weworkremotely.com/remote-jobs/skycatchfire-senior-react-developer)
 - [Integration App: Lead Product Engineer, Integration Engine](https://weworkremotely.com/remote-jobs/integration-app-lead-product-engineer-integration-engine)
 - [SKYCATCHFIRE: Senior Django Developer](https://weworkremotely.com/remote-jobs/skycatchfire-senior-django-developer)
 - [CoW Protocol: Engineering Manager](https://weworkremotely.com/remote-jobs/cow-protocol-engineering-manager)
 - [Search Atlas - Advanced SEO Software: Backend Engineer- Python](https://weworkremotely.com/remote-jobs/search-atlas-advanced-seo-software-backend-engineer-python)
-- [Zamp: Senior Full-Stack Software Engineer](https://weworkremotely.com/remote-jobs/zamp-senior-full-stack-software-engineer)
 
 ### 🎯 Freelance Opportunities
-- [Video Reconstruction from Eyewitness Reports](https://www.freelancer.com/projects/video-editing/Video-Reconstruction-from-Eyewitness.html)
-- [Texas Food Truck Festival Location Scout](https://www.freelancer.com/projects/research/Texas-Food-Truck-Festival-Location.html)
-- [Residential Property Postings Expert](https://www.freelancer.com/projects/word/Residential-Property-Postings-Expert.html)
-- [Short Film Comedy Screenwriter Needed](https://www.freelancer.com/projects/fiction/Short-Film-Comedy-Screenwriter-Needed.html)
-- [Realistic Artistic Illustration of a Woman&#039;s Head](https://www.freelancer.com/projects/illustration/Realistic-Artistic-Illustration-Woman.html)
-- [PDF Editing &amp; Legal WORD Document Drafting](https://www.freelancer.com/projects/editing/PDF-Editing-Legal-WORD-Document.html)
-- [Social Media Marketer for WowClean Laundry](https://www.freelancer.com/projects/facebook-marketing/Social-Media-Marketer-for-WowClean.html)
+- [Residential 3D Architectural Visualization](https://www.freelancer.com/projects/3d-modelling/Residential-Architectural-Visualization-39254199.html)
+- [Fix Clerk-Convex Integration for TypeScript](https://www.freelancer.com/projects/nextjs/Fix-Clerk-Convex-Integration-for.html)
+- [Aluminium Ute Tray Design Collaboration](https://www.freelancer.com/projects/autocad/Aluminium-Ute-Tray-Design-Collaboration.html)
+- [iOS App Development for Remote Control](https://www.freelancer.com/projects/iphone-app-development/iOS-App-Development-for-Remote.html)
+- [Ecommerce, Social Media &amp; AI Support](https://www.freelancer.com/projects/social-media-marketing/Ecommerce-Social-Media-Support.html)
+- [Need Russian Speakers -- 2](https://www.freelancer.com/projects/russian-translator/Need-Russian-Speakers-39252599.html)
+- [Figma Designer Needed](https://www.freelancer.com/projects/graphic-design/Figma-Designer-Needed-39254187.html)
 
 ### 📝 Latest Tech Articles
-- [165/365 | ¥10M Job Challenge - A Fast-Moving World](https://dev.to/kameken100/165365-y10m-job-challenge-a-fast-moving-world-e27)
-- [🌟Understandig the power of ConfigMaps and Secrets🌟](https://dev.to/anil_kumar_ff4f6ad3549983/understandig-the-power-of-configmaps-and-secrets-36l6)
-- [【结构设计】SolidWorks打开立创EDA的STEP文件、OBJ文件](https://dev.to/kisorge/jie-gou-she-ji-solidworksda-kai-li-chuang-edade-stepwen-jian-objwen-jian-3i45)
-- [【嵌入式设备】滑动变阻器使用方式](https://dev.to/kisorge/jie-gou-she-ji-3dda-yin-chuang-xiang-san-wei-ender-3-v2-208n)
-- [Rodando GitHub Actions na raça (sem push)](https://dev.to/leonardo_gobatto_f5b4ec9b/rodando-github-actions-na-raca-sem-push-1pj5)
-- [SPI to Ethernet Communication on Forlinx OK-MX9352-C Board: W5500 Driver Setup & Debug Guide](https://dev.to/ronnie_r_152dc2151d9449c6/spi-to-ethernet-communication-on-forlinx-ok-mx9352-c-board-w5500-driver-setup-debug-guide-em1)
-- [【C语言】相关问题汇总——持续更新](https://dev.to/kisorge/cyu-yan-xiang-guan-wen-ti-hui-zong-chi-xu-geng-xin-5gcl)
-- [09389010538](https://medium.com/@h83429284/09389010538-b10eebc3ca6b?source=rss------programming-5)
-- [09389010538](https://medium.com/@h83429284/09389010538-2f1436295da4?source=rss------programming-5)
-- [09389010538](https://medium.com/@h83429284/09389010538-1fb2cc35a84d?source=rss------programming-5)
-- [Ytg](https://medium.com/@ieieidjdjssj/ytg-11339be34f52?source=rss------programming-5)
-- [Utdf](https://medium.com/@ieieidjdjssj/utdf-21337976886b?source=rss------programming-5)
-- [Wiej](https://medium.com/@ieieidjdjssj/wiej-38a9f7414235?source=rss------programming-5)
-- [LevianaSicret](https://medium.com/@wwq211488/levianasicret-b4a58eb0a9ce?source=rss------programming-5)
+- [Developing Secure AI Models with Differential Privacy](https://dev.to/kartikmehta8/developing-secure-ai-models-with-differential-privacy-4h1m)
+- [Implementing Rate Limiting and Throttling in .NET 8: Safeguard Your Backend Services](https://dev.to/leandroveiga/implementing-rate-limiting-and-throttling-in-net-8-safeguard-your-backend-services-4ei7)
+- [8.6 Conhecendo mais métodos do Stream](https://dev.to/fundamentosjava/86-conhecendo-mais-metodos-do-stream-4agb)
+- [getting past the airtag limit on ios](https://dev.to/sam_sorkin_f6060af993cd63/getting-past-the-airtag-limit-on-ios-1ie3)
+- [The Ultimate Guide to Mobile Game Performance Testing in 2025: Metrics, Tools, and Future Trends](https://dev.to/radha_4c842d8e4362a7cdd9c/the-ultimate-guide-to-mobile-game-performance-testing-in-2025-metrics-tools-and-future-trends-29da)
+- [Eclipse Code Template](https://dev.to/jay_l_d9070976d2f2c99d5ee/eclipse-code-template-48f9)
+- [Is Modern Web Dev Too Complex for Newcomers?](https://dev.to/distalx/is-modern-web-dev-too-complex-for-newcomers-5aon)
+- [Xemacsشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@htkhttnakh/xemacs%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-dc13bfb5d64f?source=rss------programming-5)
+- [Xemacsشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@htkhttnakh/xemacs%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-d9d78fd5e62f?source=rss------programming-5)
+- [Xemacsشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@htkhttnakh/xemacs%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-5d6334963863?source=rss------programming-5)
+- [Xemacsشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@alhakbkhyn/xemacs%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-3abde8ea474d?source=rss------programming-5)
+- [Xemacsشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@alhakbkhyn/xemacs%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-7ddd2c6d4eeb?source=rss------programming-5)
+- [Xemacsشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@alhakbkhyn/xemacs%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-603f25c2bc21?source=rss------programming-5)
+- [Sjg](https://medium.com/@osoejrjdjjf/sjg-1637b48379d1?source=rss------programming-5)
