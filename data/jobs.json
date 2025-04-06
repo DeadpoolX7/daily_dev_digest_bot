@@ -1,5 +1,17 @@
 [
     {
+        "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+        "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
+    },
+    {
+        "title": "BaxEnergy: Staff Software Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/baxenergy-staff-software-engineer"
+    },
+    {
+        "title": "Wisnam: Cloud Software Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/wisnam-cloud-software-engineer-1"
+    },
+    {
         "title": "GrowthX: Founding Product Engineer",
         "link": "https://weworkremotely.com/remote-jobs/growthx-founding-product-engineer"
     },
@@ -14,17 +26,5 @@
     {
         "title": "CardNexus: Senior Backend Engineer",
         "link": "https://weworkremotely.com/remote-jobs/cardnexus-senior-backend-engineer"
-    },
-    {
-        "title": "Pearl West Group: Full Stack Shopify Developer",
-        "link": "https://weworkremotely.com/remote-jobs/pearl-west-group-full-stack-shopify-developer"
-    },
-    {
-        "title": "Murmuration: Staff Software Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/murmuration-staff-software-engineer-1"
-    },
-    {
-        "title": "Soda Data: Senior Data Engineer (Python + Remote)",
-        "link": "https://weworkremotely.com/remote-jobs/soda-data-senior-data-engineer-python-remote"
     }
 ]
