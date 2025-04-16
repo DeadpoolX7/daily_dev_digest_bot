@@ -1,5 +1,13 @@
 [
     {
+        "title": "Semaphore: Senior Software Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/semaphore-senior-software-engineer-5"
+    },
+    {
+        "title": "Subscript: Software Engineer (Frontend, Backend, or Full stack)",
+        "link": "https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2"
+    },
+    {
         "title": "Platform Engineering Labs: Senior Software Engineer - GoLang",
         "link": "https://weworkremotely.com/remote-jobs/platform-engineering-labs-senior-software-engineer-golang"
     },
@@ -18,13 +26,5 @@
     {
         "title": "Gymdesk: Mid-level PHP Developer for B2B SaaS",
         "link": "https://weworkremotely.com/remote-jobs/gymdesk-mid-level-php-developer-for-b2b-saas"
-    },
-    {
-        "title": "OnTheGoSystems: AI Developer",
-        "link": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-developer"
-    },
-    {
-        "title": "Proton.ai: Senior Backend Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer"
     }
 ]
