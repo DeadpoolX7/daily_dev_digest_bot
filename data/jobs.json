@@ -1,5 +1,17 @@
 [
     {
+        "title": "BrandChamp: Senior Full-Stack JavaScript Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/brandchamp-senior-full-stack-javascript-engineer"
+    },
+    {
+        "title": "Speechify Inc: Senior Software Engineer, Web",
+        "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web"
+    },
+    {
+        "title": "OnTheGoSystems: Full-Stack RoR Developer",
+        "link": "https://weworkremotely.com/remote-jobs/onthegosystems-full-stack-ror-developer"
+    },
+    {
         "title": "Semaphore: Senior Software Engineer",
         "link": "https://weworkremotely.com/remote-jobs/semaphore-senior-software-engineer-5"
     },
@@ -14,17 +26,5 @@
     {
         "title": "Anima Health: Lead Software Engineer",
         "link": "https://weworkremotely.com/remote-jobs/anima-health-lead-software-engineer"
-    },
-    {
-        "title": "Toggl: Senior Backend Engineer (Toggl Hire)",
-        "link": "https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer-toggl-hire"
-    },
-    {
-        "title": "Desia Limited: Backend Engineer (Data Platform)",
-        "link": "https://weworkremotely.com/remote-jobs/desia-limited-backend-engineer-data-platform"
-    },
-    {
-        "title": "Gymdesk: Mid-level PHP Developer for B2B SaaS",
-        "link": "https://weworkremotely.com/remote-jobs/gymdesk-mid-level-php-developer-for-b2b-saas"
     }
 ]
