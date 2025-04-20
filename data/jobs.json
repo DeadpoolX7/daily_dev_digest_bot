@@ -1,5 +1,17 @@
 [
     {
+        "title": "Maharishi Foundation International: Senior Mobile Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/maharishi-foundation-international-senior-mobile-engineer"
+    },
+    {
+        "title": "42matches GmbH: Senior Fullstack Engineer - Java, Angular & Cloud",
+        "link": "https://weworkremotely.com/remote-jobs/42matches-gmbh-senior-fullstack-engineer-java-angular-cloud"
+    },
+    {
+        "title": "Elite Software Automation: Software Design Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/elite-software-automation-software-design-engineer"
+    },
+    {
         "title": "Scarlet Creative Software: Full Stack Developer",
         "link": "https://weworkremotely.com/remote-jobs/scarlet-creative-software-full-stack-developer"
     },
@@ -14,17 +26,5 @@
     {
         "title": "Lemon.io: Senior React Full-stack Developer",
         "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer"
-    },
-    {
-        "title": "OnTheGoSystems: PHP Full-Stack Developer",
-        "link": "https://weworkremotely.com/remote-jobs/onthegosystems-php-full-stack-developer"
-    },
-    {
-        "title": "CloudDevs: Webflow Designer / Developer",
-        "link": "https://weworkremotely.com/remote-jobs/clouddevs-webflow-designer-developer"
-    },
-    {
-        "title": "Nordhealth: Senior Full-Stack Engineer (Laravel & Vue)",
-        "link": "https://weworkremotely.com/remote-jobs/nordhealth-senior-full-stack-engineer-laravel-vue"
     }
 ]

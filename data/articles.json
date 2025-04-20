@@ -1,54 +1,58 @@
 [
     {
-        "title": "Do Humans Really Need AI?",
-        "link": "https://dev.to/doozieakshay/do-humans-really-need-ai-405p"
+        "title": "GEN-AI 5 : WGAN and WGAN-GP",
+        "link": "https://dev.to/mitanshgor/gen-ai-2-generative-ai-and-auto-encoders-do8"
     },
     {
-        "title": "The Secret History of the Illuminati: Myth, Power & Hidden Truths",
-        "link": "https://dev.to/scriptedbytruth/the-secret-history-of-the-illuminati-myth-power-hidden-truths-3pga"
+        "title": "GEN-AI 4 : GAN",
+        "link": "https://dev.to/mitanshgor/gen-ai-4-gan-how-ai-learns-to-generate-realistic-images-17bn"
     },
     {
-        "title": "Angular 16\u201319: Understanding `input.required<T>()` vs `input.required<T>().signal`",
-        "link": "https://dev.to/cristiansifuentes/angular-16-19-understanding-inputrequired-vs-inputrequiredsignal-f3l"
+        "title": "No Daemons. No Cron. No Containers. Just Files.",
+        "link": "https://dev.to/matrixswarm/no-daemons-no-cron-no-containers-just-files-26j4"
     },
     {
-        "title": "AI Reasoning: Thinking May Not Be Required for Top Performance",
-        "link": "https://dev.to/aimodels-fyi/ai-reasoning-thinking-may-not-be-required-for-top-performance-4gmk"
+        "title": "How AI is Shaping Our Watching Habits",
+        "link": "https://dev.to/erik_lindstrom_101/how-ai-is-shaping-our-watching-habits-46oa"
     },
     {
-        "title": "xVerify: Accurate, Efficient LLM Answer Verifier for Reasoning Model Evaluation",
-        "link": "https://dev.to/aimodels-fyi/xverify-accurate-efficient-llm-answer-verifier-for-reasoning-model-evaluation-nhl"
+        "title": "Commit to Code: Why Git & GitHub Matter",
+        "link": "https://dev.to/shanedsouza4/commit-to-code-why-git-github-matter-4llf"
     },
     {
-        "title": "Faster Satellite Change Detection: New AI Beats Transformers",
-        "link": "https://dev.to/aimodels-fyi/faster-satellite-change-detection-new-ai-beats-transformers-2cc1"
+        "title": "From a Nobody to 1000 Active Users With $0 in Ads",
+        "link": "https://dev.to/ravicoding/from-a-nobody-to-1000-active-users-with-0-in-ads-1ioa"
     },
     {
-        "title": "AI Updates: Semantic Commit for Resolving Intent Conflicts at Scale",
-        "link": "https://dev.to/aimodels-fyi/ai-updates-semantic-commit-for-resolving-intent-conflicts-at-scale-55k4"
+        "title": "Understanding the Role of AI in Supply Chain Risk Management",
+        "link": "https://dev.to/kartikmehta8/understanding-the-role-of-ai-in-supply-chain-risk-management-30g9"
     },
     {
-        "title": "Week 1\u200a\u2014\u200aLesson 1: Your First SwiftUI App",
-        "link": "https://medium.com/@va2smoove/week-1-lesson-1-your-first-swiftui-app-0debe87eba82?source=rss------programming-5"
+        "title": "Mastering Health Checks in\u00a0.NET Core 8: A Complete Guide with Real-World Examples",
+        "link": "https://medium.com/@ashokreddy343/mastering-health-checks-in-net-core-8-a-complete-guide-with-real-world-examples-e52b47dea317?source=rss------programming-5"
     },
     {
-        "title": "09309022560",
-        "link": "https://medium.com/@ihihviucivucxy/09309022560-c7776cf15b42?source=rss------programming-5"
+        "title": "Why won\u2019t simple code get auto-vectorized with SSE and AVX in modern compilers?",
+        "link": "https://medium.com/@mayintuji/why-wont-simple-code-get-auto-vectorized-with-sse-and-avx-in-modern-compilers-232fa119c3c5?source=rss------programming-5"
     },
     {
-        "title": "09309022560",
-        "link": "https://medium.com/@ihihviucivucxy/09309022560-a73c2eef2455?source=rss------programming-5"
+        "title": "09304098140",
+        "link": "https://medium.com/@huuyfchjjffuuff/09304098140-8742a911ee74?source=rss------programming-5"
     },
     {
-        "title": "09363843642",
-        "link": "https://medium.com/@n05244194/09363843642-7f72c7a074e0?source=rss------programming-5"
+        "title": "09304098140",
+        "link": "https://medium.com/@huuyfchjjffuuff/09304098140-25b95adc3db2?source=rss------programming-5"
     },
     {
-        "title": "09363843642",
-        "link": "https://medium.com/@n05244194/09363843642-a6030b9677b5?source=rss------programming-5"
+        "title": "09304098140",
+        "link": "https://medium.com/@huuyfchjjffuuff/09304098140-7c3cad104d73?source=rss------programming-5"
     },
     {
-        "title": "09363843642",
-        "link": "https://medium.com/@n05244194/09363843642-52027b05c1d4?source=rss------programming-5"
+        "title": "Developers Struggle with Deployment: What You Should Actually Know",
+        "link": "https://medium.com/@harry2an/developers-struggle-with-deployment-what-you-should-actually-know-ec86e8913ffe?source=rss------programming-5"
+    },
+    {
+        "title": "09304098140",
+        "link": "https://medium.com/@ydsfsdhhxffh/09304098140-1b2d5c4e3246?source=rss------programming-5"
     }
 ]
