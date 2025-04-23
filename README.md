@@ -1,46 +1,45 @@
 # 📢 Daily Dev Digest
 
 ### 💼 Latest Job Listings
+- [Lead Product Designer](https://remoteOK.com/remote-jobs/remote-lead-product-designer-stealth-1093013)
+- [Technical Product Manager Developer Platform](https://remoteOK.com/remote-jobs/remote-technical-product-manager-developer-platform-trueml-1093012)
+- [DeFi Researcher](https://remoteOK.com/remote-jobs/remote-defi-researcher-gauntlet-1093010)
+- [Customer Support Representative](https://remoteOK.com/remote-jobs/remote-customer-support-representative-anagram-1093009)
 - [Accountant I Colombia](https://remoteOK.com/remote-jobs/remote-accountant-i-colombia-proper-1093005)
 - [National Account Manager U.S](https://remoteOK.com/remote-jobs/remote-national-account-manager-u-s-juneshine-brands-1093004)
 - [Onboarding Specialist Philippines](https://remoteOK.com/remote-jobs/remote-onboarding-specialist-philippines-hostaway-1093003)
-- [Sleep Consultant](https://remoteOK.com/remote-jobs/remote-sleep-consultant-huckleberry-labs-1093002)
-- [Account Executive possible](https://remoteOK.com/remote-jobs/remote-account-executive-possible-playtestcloud-gmbh-1093001)
-- [Copywriter Health](https://remoteOK.com/remote-jobs/remote-copywriter-health-webfx-com-1093000)
-- [Technical Customer Support Specialist](https://remoteOK.com/remote-jobs/remote-technical-customer-support-specialist-sharecrf-1092999)
+- [LifeAnalytics: Image Analysis Bio&Pathology Field Senior Full Stuck Developer](https://weworkremotely.com/remote-jobs/lifeanalytics-image-analysis-bio-pathology-field-senior-full-stuck-developer)
 - [Contra: Web Developer – Website & Payment Integration](https://weworkremotely.com/remote-jobs/contra-web-developer-website-payment-integration)
 - [Contra: Fullstack Developer (React / Firebase / Supabase)](https://weworkremotely.com/remote-jobs/contra-fullstack-developer-react-firebase-supabase)
 - [Elevate Labs: Senior Backend Engineer](https://weworkremotely.com/remote-jobs/elevate-labs-senior-backend-engineer-1)
 - [Maharishi Foundation International: Senior Mobile Engineer](https://weworkremotely.com/remote-jobs/maharishi-foundation-international-senior-mobile-engineer)
 - [42matches GmbH: Senior Fullstack Engineer - Java, Angular & Cloud](https://weworkremotely.com/remote-jobs/42matches-gmbh-senior-fullstack-engineer-java-angular-cloud)
 - [Elite Software Automation: Software Design Engineer](https://weworkremotely.com/remote-jobs/elite-software-automation-software-design-engineer)
-- [Scarlet Creative Software: Full Stack Developer](https://weworkremotely.com/remote-jobs/scarlet-creative-software-full-stack-developer)
 
 ### 🎯 Freelance Opportunities
-- [Excel Spreadsheets Data Update &amp; Creation](https://www.freelancer.com/projects/data-entry/Excel-Spreadsheets-Data-Update-Creation.html)
-- [Intense TikTok campaign](https://www.freelancer.com/projects/social-media-marketing/Intense-TikTok-campaign-39330653.html)
-- [Wrinkle Removal off neck of an iPhone home shot 2:45 min video](https://www.freelancer.com/projects/video-editing/Wrinkle-Removal-Music-Editing-for.html)
-- [Looking for Freelancers in Sri Lanka &ndash; SMMA &amp; Branding Only (Fixed Rates)](https://www.freelancer.com/projects/logo-design/Looking-for-Freelancers-Sri-Lanka.html)
-- [WordPress Home Services Booking Site](https://www.freelancer.com/projects/php/WordPress-Home-Services-Booking-Site.html)
-- [TikTok Account Management: Product Unboxing Expert](https://www.freelancer.com/projects/tiktok/TikTok-Account-Management-Product.html)
-- [Development of &quot;Unidades de Negocios&quot; Module for Hospital Management Software](https://www.freelancer.com/projects/python/Development-Unidades-Negocios-Module-for.html)
+- [Comprehensive SEO Boost for Italy](https://www.freelancer.com/projects/seo/Comprehensive-SEO-Boost-for-Italy.html)
+- [Steel Platform Design on Autodesk Inventor](https://www.freelancer.com/projects/mechanical-engineering/Steel-Platform-Design-Autodesk-Inventor.html)
+- [Ohas Classes](https://www.freelancer.com/projects/iphone-app-development/Ohas-Classes.html)
+- [Unity Game Dev Needed -- 2](https://www.freelancer.com/projects/unity-3d/Unity-Game-Dev-Needed.html)
+- [Fix Inaccessible Website](https://www.freelancer.com/projects/php/Fix-Inaccessible-Website.html)
+- [Urgent Google Listing Reinstatement](https://www.freelancer.com/projects/google-analytics/Urgent-Google-Listing-Reinstatement.html)
+- [Photo Clarity Restoration](https://www.freelancer.com/projects/photoshop/Photo-Clarity-Restoration.html)
 
 ### 📝 Latest Tech Articles
-- [Python](https://dev.to/rudrabhardwaj/python-11i1)
-- [How to Run Cron Jobs in Deno Without a Server Using Deno Deploy and Webhooks](https://dev.to/hexshift/how-to-run-cron-jobs-in-deno-without-a-server-using-deno-deploy-and-webhooks-7fp)
-- [How to Set Up Scheduled Cron Jobs in Node.js Without a Server Using Cloudflare Workers and Durable Objects](https://dev.to/hexshift/how-to-set-up-scheduled-cron-jobs-in-nodejs-without-a-server-using-cloudflare-workers-and-durable-neo)
-- [How to Host a Scalable Full-Stack App for Free Using Cloudflare Pages, Workers, and Supabase](https://dev.to/hexshift/how-to-host-a-scalable-full-stack-app-for-free-using-cloudflare-pages-workers-and-supabase-2ke5)
-- [What Is Drupal's Views Module in 2025?](https://dev.to/nigelsilonero/what-is-drupals-views-module-in-2025-3mgp)
-- [[Boost]](https://dev.to/rajay_f208c22d6e8e/-2da4)
-- [TikTok Virtual Machine Reverse Engineering](https://dev.to/lukas_ogunfeitimi_299f97d/tiktok-virtual-machine-reverse-engineering-4eb1)
-- [Can This Adaptive Average Boost Your Strategy? Full VAMA + Backtrader Example](https://aliazary.medium.com/can-this-adaptive-average-boost-your-strategy-full-vama-backtrader-example-e794d4b31a0a?source=rss------programming-5)
-- [You Can’t Use React Hooks in Axios… Until You Do This One Thing Right](https://medium.com/@CodeWithYog/you-cant-use-react-hooks-in-axios-until-you-do-this-one-thing-right-fd8e128103dc?source=rss------programming-5)
-- [Go in 2024 and Beyond: Riding the Cloud and Charting the AI Frontier](https://medium.programmerscareer.com/go-in-2024-and-beyond-riding-the-cloud-and-charting-the-ai-frontier-bd857c4bf337?source=rss------programming-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalh1188/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e6e468138be4?source=rss------programming-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalh1188/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3e458549ef7a?source=rss------programming-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalh1188/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e05da7aa452f?source=rss------programming-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalhshmarh67/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-387df9a484cc?source=rss------programming-5)
+- [Operational Security "OPSEC": Steps, Mistakes, and Tips for Better Security](https://dev.to/terminaltools/operational-security-opsec-steps-mistakes-and-tips-for-better-security-4564)
+- [My Exclusive "Manus AI" Beta Experience: The Future of AI Agents](https://dev.to/sohamehta/my-exclusive-manus-ai-beta-experience-the-future-of-ai-agents-46am)
+- [DAY :31 This , Super class in JAVA.](https://dev.to/sangamithra_k_78d83d6fb9d/day-31-this-super-class-in-java-ng9)
+- [How to Build a Zero-Dependency Audio Synth in the Browser Using Web Audio API](https://dev.to/hexshift/how-to-build-a-zero-dependency-audio-synth-in-the-browser-using-web-audio-api-1bp5)
+- [Introdução à Programação Orientada a Objetos com Dart (usando gatinhos 🐱)](https://dev.to/rodrigogaleano/introducao-a-programacao-orientada-a-objetos-com-dart-usando-gatinhos--17nh)
+- [Async, Await, Promises ... in javascript](https://dev.to/hemantgovekar/async-await-promises-in-javascript-oi8)
+- [Kotlin + gRPC: Nesting, Composition, Validations, and Idiomatic Builder DSL](https://dev.to/lucasfugisawa/kotlin-grpc-nesting-composition-validations-and-idiomatic-builder-dsl-cap)
+- [N8n’s Native MCP Integration: Current Capabilities and Future Potential](https://leandrocaladoferreira.medium.com/n8ns-native-mcp-integration-current-capabilities-and-future-potential-4a36ca30d879?source=rss------programming-5)
+- [Why Your TypeScript Types Are Lying to You](https://medium.com/@CodeWithYog/why-your-typescript-types-are-lying-to-you-de1a64128faf?source=rss------programming-5)
+- [Top 70 SQL Queries Every Analyst Should Know in 2025](https://mumarhanif.medium.com/top-70-sql-queries-every-analyst-should-know-in-2025-77e56816483d?source=rss------programming-5)
+- [Heap Encryption](https://medium.com/@s12deff/heap-encryption-9f98be61f99c?source=rss------programming-5)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfhghhcjg/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-85587d9685df?source=rss------programming-5)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfhghhcjg/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8390a0b54117?source=rss------programming-5)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfhghhcjg/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8c1cc9b05573?source=rss------programming-5)

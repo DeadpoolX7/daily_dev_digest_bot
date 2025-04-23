@@ -1,58 +1,58 @@
 [
     {
-        "title": "Python",
-        "link": "https://dev.to/rudrabhardwaj/python-11i1"
+        "title": "Operational Security \"OPSEC\": Steps, Mistakes, and Tips for Better Security",
+        "link": "https://dev.to/terminaltools/operational-security-opsec-steps-mistakes-and-tips-for-better-security-4564"
     },
     {
-        "title": "How to Run Cron Jobs in Deno Without a Server Using Deno Deploy and Webhooks",
-        "link": "https://dev.to/hexshift/how-to-run-cron-jobs-in-deno-without-a-server-using-deno-deploy-and-webhooks-7fp"
+        "title": "My Exclusive \"Manus AI\" Beta Experience: The Future of AI Agents",
+        "link": "https://dev.to/sohamehta/my-exclusive-manus-ai-beta-experience-the-future-of-ai-agents-46am"
     },
     {
-        "title": "How to Set Up Scheduled Cron Jobs in Node.js Without a Server Using Cloudflare Workers and Durable Objects",
-        "link": "https://dev.to/hexshift/how-to-set-up-scheduled-cron-jobs-in-nodejs-without-a-server-using-cloudflare-workers-and-durable-neo"
+        "title": "DAY :31 This , Super class in JAVA.",
+        "link": "https://dev.to/sangamithra_k_78d83d6fb9d/day-31-this-super-class-in-java-ng9"
     },
     {
-        "title": "How to Host a Scalable Full-Stack App for Free Using Cloudflare Pages, Workers, and Supabase",
-        "link": "https://dev.to/hexshift/how-to-host-a-scalable-full-stack-app-for-free-using-cloudflare-pages-workers-and-supabase-2ke5"
+        "title": "How to Build a Zero-Dependency Audio Synth in the Browser Using Web Audio API",
+        "link": "https://dev.to/hexshift/how-to-build-a-zero-dependency-audio-synth-in-the-browser-using-web-audio-api-1bp5"
     },
     {
-        "title": "What Is Drupal's Views Module in 2025?",
-        "link": "https://dev.to/nigelsilonero/what-is-drupals-views-module-in-2025-3mgp"
+        "title": "Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o Orientada a Objetos com Dart (usando gatinhos \ud83d\udc31)",
+        "link": "https://dev.to/rodrigogaleano/introducao-a-programacao-orientada-a-objetos-com-dart-usando-gatinhos--17nh"
     },
     {
-        "title": "[Boost]",
-        "link": "https://dev.to/rajay_f208c22d6e8e/-2da4"
+        "title": "Async, Await, Promises ... in javascript",
+        "link": "https://dev.to/hemantgovekar/async-await-promises-in-javascript-oi8"
     },
     {
-        "title": "TikTok Virtual Machine Reverse Engineering",
-        "link": "https://dev.to/lukas_ogunfeitimi_299f97d/tiktok-virtual-machine-reverse-engineering-4eb1"
+        "title": "Kotlin + gRPC: Nesting, Composition, Validations, and Idiomatic Builder DSL",
+        "link": "https://dev.to/lucasfugisawa/kotlin-grpc-nesting-composition-validations-and-idiomatic-builder-dsl-cap"
     },
     {
-        "title": "Can This Adaptive Average Boost Your Strategy? Full VAMA + Backtrader Example",
-        "link": "https://aliazary.medium.com/can-this-adaptive-average-boost-your-strategy-full-vama-backtrader-example-e794d4b31a0a?source=rss------programming-5"
+        "title": "N8n\u2019s Native MCP Integration: Current Capabilities and Future Potential",
+        "link": "https://leandrocaladoferreira.medium.com/n8ns-native-mcp-integration-current-capabilities-and-future-potential-4a36ca30d879?source=rss------programming-5"
     },
     {
-        "title": "You Can\u2019t Use React Hooks in Axios\u2026 Until You Do This One Thing Right",
-        "link": "https://medium.com/@CodeWithYog/you-cant-use-react-hooks-in-axios-until-you-do-this-one-thing-right-fd8e128103dc?source=rss------programming-5"
+        "title": "Why Your TypeScript Types Are Lying to You",
+        "link": "https://medium.com/@CodeWithYog/why-your-typescript-types-are-lying-to-you-de1a64128faf?source=rss------programming-5"
     },
     {
-        "title": "Go in 2024 and Beyond: Riding the Cloud and Charting the AI Frontier",
-        "link": "https://medium.programmerscareer.com/go-in-2024-and-beyond-riding-the-cloud-and-charting-the-ai-frontier-bd857c4bf337?source=rss------programming-5"
+        "title": "Top 70 SQL Queries Every Analyst Should Know in 2025",
+        "link": "https://mumarhanif.medium.com/top-70-sql-queries-every-analyst-should-know-in-2025-77e56816483d?source=rss------programming-5"
     },
     {
-        "title": "09360627233\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u0627\u0635\u0641\u0647\u0627\u0646\n\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647\u2026",
-        "link": "https://medium.com/@khalh1188/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e6e468138be4?source=rss------programming-5"
+        "title": "Heap Encryption",
+        "link": "https://medium.com/@s12deff/heap-encryption-9f98be61f99c?source=rss------programming-5"
     },
     {
-        "title": "09360627233\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u0627\u0635\u0641\u0647\u0627\u0646\n\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647\u2026",
-        "link": "https://medium.com/@khalh1188/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3e458549ef7a?source=rss------programming-5"
+        "title": "09309022560\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u0627\u0635\u0641\u0647\u0627\u0646\n\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647\u2026",
+        "link": "https://medium.com/@jfhghhcjg/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-85587d9685df?source=rss------programming-5"
     },
     {
-        "title": "09360627233\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u0627\u0635\u0641\u0647\u0627\u0646\n\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647\u2026",
-        "link": "https://medium.com/@khalh1188/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e05da7aa452f?source=rss------programming-5"
+        "title": "09309022560\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u0627\u0635\u0641\u0647\u0627\u0646\n\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647\u2026",
+        "link": "https://medium.com/@jfhghhcjg/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8390a0b54117?source=rss------programming-5"
     },
     {
-        "title": "09360627233\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u0627\u0635\u0641\u0647\u0627\u0646\n\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647\u2026",
-        "link": "https://medium.com/@khalhshmarh67/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-387df9a484cc?source=rss------programming-5"
+        "title": "09309022560\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u0627\u0635\u0641\u0647\u0627\u0646\n\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647\u2026",
+        "link": "https://medium.com/@jfhghhcjg/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8c1cc9b05573?source=rss------programming-5"
     }
 ]
