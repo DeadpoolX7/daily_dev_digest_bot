@@ -1,5 +1,9 @@
 [
     {
+        "title": "Software Engineer Android",
+        "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-android-ontic-1093099"
+    },
+    {
         "title": "Computational Journalist Data Reporting",
         "link": "https://remoteOK.com/remote-jobs/remote-computational-journalist-data-reporting-500-wp-company-llc-1093098"
     },
@@ -24,8 +28,12 @@
         "link": "https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-debugger-tenderly-1093093"
     },
     {
-        "title": "Commerce Editor Temporary",
-        "link": "https://remoteOK.com/remote-jobs/remote-commerce-editor-temporary-bdg-1093091"
+        "title": "Clipp.com: Senior Full-Stack Software Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/clipp-com-senior-full-stack-software-engineer"
+    },
+    {
+        "title": "Sanctuary Computer: Senior Software Engineer (Backend, Native Android or iOS)",
+        "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-software-engineer-backend-native-android-or-ios"
     },
     {
         "title": "Speechify Inc: Senior iOS Engineer",
@@ -46,13 +54,5 @@
     {
         "title": "GrowthX: Senior Full Stack Engineer (ClientOps + Applied AI)",
         "link": "https://weworkremotely.com/remote-jobs/growthx-senior-full-stack-engineer-clientops-applied-ai"
-    },
-    {
-        "title": "WebPunch: Mid-Senior Rails Systems Monitoring & Quality Assurance",
-        "link": "https://weworkremotely.com/remote-jobs/webpunch-mid-senior-rails-systems-monitoring-quality-assurance"
-    },
-    {
-        "title": "Patchstack: Senior Backend Developer (PHP/Laravel)",
-        "link": "https://weworkremotely.com/remote-jobs/patchstack-senior-backend-developer-php-laravel"
     }
 ]
