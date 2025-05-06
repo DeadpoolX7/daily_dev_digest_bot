@@ -1,58 +1,58 @@
 [
     {
-        "title": "\ud83e\uddea 5 Surprisingly Useful Ways to Use Free APIs for Real Projects (Not Just Toy Demos)",
-        "link": "https://dev.to/lonti-davidb/5-surprisingly-useful-ways-to-use-free-apis-for-real-projects-not-just-toy-demos-23o1"
+        "title": "Building a Responsive Product Filter and Sort UI with Tailwind CSS",
+        "link": "https://dev.to/hexshift/building-a-responsive-product-filter-and-sort-ui-with-tailwind-css-5e3e"
     },
     {
-        "title": "\ud83d\udc15 shortio \u2014 Secure Links for the Right People, Every Time",
-        "link": "https://dev.to/wesleybertipaglia/shortio-my-submission-for-the-permitio-hackathon-5b1"
+        "title": "What is the 'this' Keyword in JavaScript and How to Use It?",
+        "link": "https://dev.to/generatecodedev/what-is-the-this-keyword-in-javascript-and-how-to-use-it-33hd"
     },
     {
-        "title": "Standardizing Git Commit Messages: The Role of Tags like wip and Beyond",
-        "link": "https://dev.to/robinncode/standardizing-git-commit-messages-the-role-of-tags-like-wip-and-beyond-lpe"
+        "title": "LangChain Agent with Bright Data Provider",
+        "link": "https://dev.to/ranjancse/langchain-agent-with-bright-data-provider-4nbp"
     },
     {
-        "title": "Importing Excel with multiple headers into a database",
-        "link": "https://dev.to/ryjfgjl/importing-excel-with-multiple-headers-into-a-database-4c17"
+        "title": "Creating Responsive Product Grids with Tailwind CSS",
+        "link": "https://dev.to/hexshift/creating-responsive-product-grids-with-tailwind-css-3dae"
     },
     {
-        "title": "Sentry for TS Developers: Practical Tips for Error Tracking & Performance Tuning",
-        "link": "https://dev.to/yigit-konur/sentry-for-ts-developers-practical-tips-for-error-tracking-performance-tuning-4kg2"
+        "title": "Securing $1 Downloads in Emerging Markets",
+        "link": "https://dev.to/timi_agama/securing-1-downloads-in-emerging-markets-4edm"
     },
     {
-        "title": "Can I safely use pointers from std::vector to std::array in C++?",
-        "link": "https://dev.to/generatecodedev/can-i-safely-use-pointers-from-stdvector-to-stdarray-in-c-4fo"
+        "title": "Building a Clean and Responsive Checkout UI with Tailwind CSS",
+        "link": "https://dev.to/hexshift/building-a-clean-and-responsive-checkout-ui-with-tailwind-css-24hm"
     },
     {
-        "title": "How JavaScript works behind the scene",
-        "link": "https://dev.to/ruhamah_eti_019fd45414326/how-javascript-works-behind-the-scene-3jhl"
+        "title": "JavaScript'in Gelece\u011fi: Yenilikler ve \u00d6tesi",
+        "link": "https://dev.to/yunus_emremert_1756b71d3/javascriptin-gelecegi-yenilikler-ve-otesi-55gi"
     },
     {
-        "title": "09389010538",
-        "link": "https://medium.com/@jdjdhffhbfjd/09389010538-74e95ee1530e?source=rss------programming-5"
+        "title": "Week 2\u200a\u2014\u200aRust Exercises: Functions, Libraries, and Clean Code",
+        "link": "https://medium.com/@harveydecapia/week-2-rust-exercises-functions-libraries-and-clean-code-e3e525cc62af?source=rss------programming-5"
     },
     {
-        "title": "09389010538",
-        "link": "https://medium.com/@jdjdhffhbfjd/09389010538-ec86d84a4956?source=rss------programming-5"
+        "title": "I\u2019m a Good Engineer but I Suck at Building Stuff",
+        "link": "https://medium.com/@kaklotarrahul79/im-a-good-engineer-but-i-suck-at-building-stuff-81d196350582?source=rss------programming-5"
     },
     {
-        "title": "09389010538",
-        "link": "https://medium.com/@jdjdhffhbfjd/09389010538-764cd0038b5a?source=rss------programming-5"
+        "title": "09335095936\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633.\u0634\u0645\u0627\u0631\u0647",
+        "link": "https://medium.com/@kskwkskskkskksks/09335095936%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e9459dbf4210?source=rss------programming-5"
     },
     {
-        "title": "Solving the Traveling Salesperson Problem with a Genetic Algorithm in Java",
-        "link": "https://medium.com/@hercilion/solving-the-traveling-salesperson-problem-with-a-genetic-algorithm-in-java-bef1da143161?source=rss------programming-5"
+        "title": "09335095936\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633.\u0634\u0645\u0627\u0631\u0647",
+        "link": "https://medium.com/@kskwkskskkskksks/09335095936%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2e4e6e4a8fbd?source=rss------programming-5"
     },
     {
-        "title": "Code like an Onion: The Decorator Pattern",
-        "link": "https://medium.com/@czl970721/code-like-an-onion-the-decorator-pattern-726ea7af76d1?source=rss------programming-5"
+        "title": "09335095936\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633.\u0634\u0645\u0627\u0631\u0647",
+        "link": "https://medium.com/@kskwkskskkskksks/09335095936%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6093633dbfe7?source=rss------programming-5"
     },
     {
-        "title": "Google\u2019s Gmail Warning\u2014Change Your Email Account Today",
-        "link": "https://medium.com/predict/googles-gmail-warning-change-your-email-account-today-eed1b6fd9896?source=rss------programming-5"
+        "title": "Open-Source Intelligence (OSINT) for Threat Enrichment: A Deep Dive with Maltego, Spiderfoot\u2026",
+        "link": "https://medium.com/@paritoshblogs/open-source-intelligence-osint-for-threat-enrichment-a-deep-dive-with-maltego-spiderfoot-9241fadbf464?source=rss------programming-5"
     },
     {
-        "title": "0905.426.7497\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u0627\u0635\u0641\u0647\u0627\u0646\n\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 #\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647# \u062a\u0647\u0631\u0627\u0646 #\u0634\u0645\u0627\u0631\u0647\u2026",
-        "link": "https://medium.com/@ggg190478/0905-426-7497%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ec4b6741f571?source=rss------programming-5"
+        "title": "Why Engineering Teams Should Build Their Own AI Coding Agents",
+        "link": "https://medium.com/@c_h_wood/why-engineering-teams-should-build-their-own-ai-coding-agents-006859e27399?source=rss------programming-5"
     }
 ]
