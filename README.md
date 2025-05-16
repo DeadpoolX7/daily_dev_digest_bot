@@ -1,42 +1,41 @@
 # 📢 Daily Dev Digest
 
 ### 💼 Latest Job Listings
+- [Staff Machine Learning Engineer](https://remoteOK.com/remote-jobs/remote-staff-machine-learning-engineer-warner-music-inc-1093176)
+- [Recruiter](https://remoteOK.com/remote-jobs/remote-recruiter-qualdoc-1093175)
+- [Social Media Expert](https://remoteOK.com/remote-jobs/remote-social-media-expert-contra-1093173)
+- [App Designer](https://remoteOK.com/remote-jobs/remote-app-designer-contra-1093171)
+- [Full Stack Software Engineer](https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-daisychain-1093170)
 - [Testing Engineer](https://remoteOK.com/remote-jobs/remote-testing-engineer-trial-library-1093169)
 - [Accountant](https://remoteOK.com/remote-jobs/remote-accountant-find-1093168)
-- [Commercial Content Editor](https://remoteOK.com/remote-jobs/remote-commercial-content-editor-find-1093167)
-- [Salesforce Engineer](https://remoteOK.com/remote-jobs/remote-salesforce-engineer-oowlish-technology-1093164)
-- [Account Coordinator](https://remoteOK.com/remote-jobs/remote-account-coordinator-bluelight-consulting-1093163)
-- [Head of Growth](https://remoteOK.com/remote-jobs/remote-head-of-growth-ava-foundation-1093162)
-- [Werkstudent im Bereich SAP &amp; Cloud Automation](https://remoteOK.com/remote-jobs/remote-werkstudent-im-bereich-sap-amp-cloud-automation-public-cloud-group-1093160)
+- [Classy Llama: Candidate Pool - United States & Canada](https://weworkremotely.com/remote-jobs/classy-llama-candidate-pool-united-states-canada)
+- [The Humble Hackers: Low-Ego • High-Impact Developer / Systems Architect](https://weworkremotely.com/remote-jobs/the-humble-hackers-low-ego-high-impact-developer-systems-architect)
+- [OnQueCRM: Laravel/VueJS Developer for Scalable Call Center CRM Platform](https://weworkremotely.com/remote-jobs/onquecrm-laravel-vuejs-developer-for-scalable-call-center-crm-platform)
+- [Subscript: Software Engineer (Frontend, Backend, or Full stack)](https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2)
 - [Platform Engineering Labs: Senior Software Engineer - GoLang](https://weworkremotely.com/remote-jobs/platform-engineering-labs-senior-software-engineer-golang)
 - [SlideSpeak: Full Stack AI Software Engineer](https://weworkremotely.com/remote-jobs/slidespeak-full-stack-ai-software-engineer)
 - [Toggl: Senior Backend Engineer (Toggl Hire)](https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer-toggl-hire)
-- [CLOUDWIND NETWORK COMPANY LIMITED: Senior Android App Developer](https://weworkremotely.com/remote-jobs/cloudwind-network-company-limited-senior-android-app-developer)
-- [DistroKid: Software Engineering Manager](https://weworkremotely.com/remote-jobs/distrokid-software-engineering-manager-1)
-- [SIGMA Assessment Systems: Senior Full Stack Engineer](https://weworkremotely.com/remote-jobs/sigma-assessment-systems-senior-full-stack-engineer-2)
-- [AuthentifyIt: Senior Full Stack Developer](https://weworkremotely.com/remote-jobs/authentifyit-senior-full-stack-developer)
 
 ### 🎯 Freelance Opportunities
-- [Generative AI Solution Builder](https://www.freelancer.com/projects/ai-development/Generative-Solution-Builder.html)
-- [Solana CLMM Volume Bot Dev](https://www.freelancer.com/projects/software-architecture/Solana-CLMM-Volume-Bot-Dev.html)
-- [Italian property manager needed - fully remote](https://www.freelancer.com/projects/italian-translator/Italian-property-manager-needed-fully.html)
-- [Fix Power BI Table Visual](https://www.freelancer.com/projects/excel/Fix-Power-Table-Visual.html)
-- [Hide Website Button](https://www.freelancer.com/projects/html/Hide-Website-Button.html)
-- [Google Ads Traffic Boost](https://www.freelancer.com/projects/advertising/Google-Ads-Traffic-Boost-39410120.html)
-- [Shopify to eBay/Etsy Integration](https://www.freelancer.com/projects/shopify-site/Shopify-eBay-Etsy-Integration.html)
 
 ### 📝 Latest Tech Articles
-- [Unveiling OpenLDAP Public License: A Comprehensive Analysis and Future Outlook](https://dev.to/ahmmrizv9/unveiling-openldap-public-license-a-comprehensive-analysis-and-future-outlook-53hh)
-- [Backend'in Derinliklerinde: Veri Tabanı Optimizasyonu](https://dev.to/yunus_emremert_1756b71d3/backendin-derinliklerinde-veri-tabani-optimizasyonu-1i8h)
-- [How to Fix PydanticSchemaGenerationError with Nested DefaultDict in Python?](https://dev.to/generatecodedev/how-to-fix-pydanticschemagenerationerror-with-nested-defaultdict-in-python-1jn8)
-- [Should you disclose your AI usage during interviews? Or keep it a secret?](https://dev.to/distalx/should-you-disclose-your-ai-usage-during-interviews-or-keep-it-a-secret-3lij)
-- [Are we writing code to show off, or to make things work? 🤔 In the age of Copilot and AI, simplicity isn't just a preference. Clean, clear code helps humans and machines work better. 🧠 Write less. Think more. Let simplicity lead.](https://dev.to/ujjavala/are-we-writing-code-to-show-off-or-to-make-things-work-in-the-age-of-copilot-and-ai-2pm6)
-- [Envoie des performances d'un système linux par mail avec python et crontab. Tuto rapide!](https://dev.to/nicolas_ohlin_aae95a9c7cf/envoie-des-performances-dun-systeme-linux-par-mail-avec-python-et-crontab-tuto-rapide-11dc)
-- [Unveiling the Netscape Public License – A Comprehensive Exploration and Review](https://dev.to/jennythomas498/unveiling-the-netscape-public-license-a-comprehensive-exploration-and-review-51lm)
-- [Swift Property Wrappers: What, Why, and How](https://commitstudiogs.medium.com/swift-property-wrappers-what-why-and-how-ddadfe03b484?source=rss------programming-5)
-- [klccs](https://medium.com/@nnxkxkkxj/klccs-2eabfdf90a00?source=rss------programming-5)
-- [nkb](https://medium.com/@nnxkxkkxj/nkb-71278fafd189?source=rss------programming-5)
-- [vkb](https://medium.com/@nnxkxkkxj/vkb-7ddeead3b2f3?source=rss------programming-5)
-- [ChatGPT Hack: How Top 1% Developers Write Code 10x Faster](https://medium.com/ai-analytics-diaries/chatgpt-hack-how-top-1-developers-write-code-10x-faster-43d66e56338a?source=rss------programming-5)
-- [Episode 3: The Pomodoro Method for IT Efficiency](https://medium.com/@lingalakonda525/episode-3-the-pomodoro-method-for-it-efficiency-30e1427a140d?source=rss------programming-5)
-- [Managing stress effectively is crucial for IT employees, given the fast-paced and demanding nature…](https://medium.com/@lingalakonda525/managing-stress-effectively-is-crucial-for-it-employees-given-the-fast-paced-and-demanding-nature-71d9fb3f9866?source=rss------programming-5)
+- [🗃️ MongoDB & Mongo Express – Docker Setup](https://dev.to/arafique458/mongodb-mongo-express-docker-setup-1kle)
+- [Breaking Limitations: Advanced Customization Guide for Dify Platform](https://dev.to/jamesli/breaking-limitations-advanced-customization-guide-for-dify-platform-25h4)
+- [Readme](https://dev.to/javanteb23/readme-3l02)
+- [15 Laravel Security Best Practices You Should Follow in 2025](https://dev.to/saif_uddin/15-laravel-security-best-practices-you-should-follow-in-2025-11c3)
+- [Understanding *temp and &temp in C++ with strtol](https://dev.to/generatecodedev/understanding-temp-and-temp-in-c-with-strtol-lh5)
+- [5 SQL Queries Everyone Should Know](https://dev.to/bakingbad/5-sql-queries-everyone-should-know-4n9i)
+- [Avoiding nil errors](https://dev.to/kwstannard/avoiding-nil-errors-hjf)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@atnaahrmy/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0152abea7716?source=rss------programming-5)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@atnaahrmy/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7fd6e74676b2?source=rss------programming-5)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@atnaahrmy/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5f27ed29f40d?source=rss------programming-5)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kbrakrmy111/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-cc056a22eff2?source=rss------programming-5)
+- [Jual Aplikasi Kasir Rumah Makan di Deiyai — Ekonomis, Top Markotop, dan Bisa Dipercaya](https://medium.com/@ilamoses/jual-aplikasi-kasir-rumah-makan-di-deiyai-ekonomis-top-markotop-dan-bisa-dipercaya-443cb690a446?source=rss------programming-5)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kbrakrmy111/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c1add03874ea?source=rss------programming-5)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kbrakrmy111/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2a8ee8a2a8c2?source=rss------programming-5)
