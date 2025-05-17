@@ -1,41 +1,42 @@
 # 📢 Daily Dev Digest
 
 ### 💼 Latest Job Listings
+- [Associate Attorney](https://remoteOK.com/remote-jobs/remote-associate-attorney-enablecomp-1093185)
+- [](https://remoteOK.com/remote-jobs/remote-1093182)
+- [Member Support Unicorn](https://remoteOK.com/remote-jobs/remote-member-support-unicorn-interaction-design-foundation-1093181)
+- [Staff Frontend Engineer](https://remoteOK.com/remote-jobs/remote-staff-frontend-engineer-notabene-1093179)
 - [Staff Machine Learning Engineer](https://remoteOK.com/remote-jobs/remote-staff-machine-learning-engineer-warner-music-inc-1093176)
 - [Recruiter](https://remoteOK.com/remote-jobs/remote-recruiter-qualdoc-1093175)
 - [Social Media Expert](https://remoteOK.com/remote-jobs/remote-social-media-expert-contra-1093173)
-- [App Designer](https://remoteOK.com/remote-jobs/remote-app-designer-contra-1093171)
-- [Full Stack Software Engineer](https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-daisychain-1093170)
-- [Testing Engineer](https://remoteOK.com/remote-jobs/remote-testing-engineer-trial-library-1093169)
-- [Accountant](https://remoteOK.com/remote-jobs/remote-accountant-find-1093168)
+- [Contra: AI Automation Specialist](https://weworkremotely.com/remote-jobs/contra-ai-automation-specialist)
 - [Classy Llama: Candidate Pool - United States & Canada](https://weworkremotely.com/remote-jobs/classy-llama-candidate-pool-united-states-canada)
 - [The Humble Hackers: Low-Ego • High-Impact Developer / Systems Architect](https://weworkremotely.com/remote-jobs/the-humble-hackers-low-ego-high-impact-developer-systems-architect)
 - [OnQueCRM: Laravel/VueJS Developer for Scalable Call Center CRM Platform](https://weworkremotely.com/remote-jobs/onquecrm-laravel-vuejs-developer-for-scalable-call-center-crm-platform)
 - [Subscript: Software Engineer (Frontend, Backend, or Full stack)](https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2)
 - [Platform Engineering Labs: Senior Software Engineer - GoLang](https://weworkremotely.com/remote-jobs/platform-engineering-labs-senior-software-engineer-golang)
 - [SlideSpeak: Full Stack AI Software Engineer](https://weworkremotely.com/remote-jobs/slidespeak-full-stack-ai-software-engineer)
-- [Toggl: Senior Backend Engineer (Toggl Hire)](https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer-toggl-hire)
 
 ### 🎯 Freelance Opportunities
+- [Power BI Interactive Dashboards for Real Estate -- 2](https://www.freelancer.com/projects/excel/Power-Interactive-Dashboards-for-Real.html)
+- [Statistical Model Evaluation Expert Needed](https://www.freelancer.com/projects/statistics/Statistical-Model-Evaluation-Expert.html)
+- [AI-Powered Skin Care App Development](https://www.freelancer.com/projects/android/Powered-Skin-Care-App-Development.html)
+- [Shopify Wholesale Store Setup](https://www.freelancer.com/projects/shopify-site/Shopify-Wholesale-Store-Setup.html)
+- [Excel Row Count Formula](https://www.freelancer.com/projects/excel/Excel-Row-Count-Formula.html)
+- [Amazon reviews](https://www.freelancer.com/projects/articles/Amazon-reviews-39415372.html)
+- [Kotlin Integration for Android Project](https://www.freelancer.com/projects/android/Kotlin-Integration-for-Android-Project.html)
 
 ### 📝 Latest Tech Articles
-- [🗃️ MongoDB & Mongo Express – Docker Setup](https://dev.to/arafique458/mongodb-mongo-express-docker-setup-1kle)
-- [Breaking Limitations: Advanced Customization Guide for Dify Platform](https://dev.to/jamesli/breaking-limitations-advanced-customization-guide-for-dify-platform-25h4)
-- [Readme](https://dev.to/javanteb23/readme-3l02)
-- [15 Laravel Security Best Practices You Should Follow in 2025](https://dev.to/saif_uddin/15-laravel-security-best-practices-you-should-follow-in-2025-11c3)
-- [Understanding *temp and &temp in C++ with strtol](https://dev.to/generatecodedev/understanding-temp-and-temp-in-c-with-strtol-lh5)
-- [5 SQL Queries Everyone Should Know](https://dev.to/bakingbad/5-sql-queries-everyone-should-know-4n9i)
-- [Avoiding nil errors](https://dev.to/kwstannard/avoiding-nil-errors-hjf)
-- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@atnaahrmy/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0152abea7716?source=rss------programming-5)
-- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@atnaahrmy/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7fd6e74676b2?source=rss------programming-5)
-- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@atnaahrmy/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5f27ed29f40d?source=rss------programming-5)
-- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kbrakrmy111/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-cc056a22eff2?source=rss------programming-5)
-- [Jual Aplikasi Kasir Rumah Makan di Deiyai — Ekonomis, Top Markotop, dan Bisa Dipercaya](https://medium.com/@ilamoses/jual-aplikasi-kasir-rumah-makan-di-deiyai-ekonomis-top-markotop-dan-bisa-dipercaya-443cb690a446?source=rss------programming-5)
-- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kbrakrmy111/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c1add03874ea?source=rss------programming-5)
-- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kbrakrmy111/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2a8ee8a2a8c2?source=rss------programming-5)
+- [AlphaEvolve vs Codex Agent](https://dev.to/czmilo/alphaevolve-vs-codex-agent-o3g)
+- [Formal Verification and Why I Fell in Love With It](https://dev.to/wade_02/formal-verification-and-why-i-fell-in-love-with-it-p75)
+- [Frontend'in Geleceği: Web Bileşenleri](https://dev.to/yunus_emremert_1756b71d3/frontendin-gelecegi-web-bilesenleri-fc5)
+- [Day 6/200 (Full stack)](https://dev.to/munin-1/project-2-and-3-day-6-projects-27i1)
+- [记一次成功的nginx部署vue](https://dev.to/kik_simon_b4e2e32ea0054d0/ji-ci-cheng-gong-de-nginxbu-shu-vue-2e9j)
+- [Unveiling GNU Verbatim Copying License: A Comprehensive Dive into Open Source Fair Code Licensing](https://dev.to/rachellovestowrite/unveiling-gnu-verbatim-copying-license-a-comprehensive-dive-into-open-source-fair-code-licensing-4g1a)
+- [Lux: Computational Tools for Tumor Analysis](https://dev.to/shaneso/lux-computational-tools-for-tumor-analysis-4njh)
+- [09335063036](https://medium.com/@samtyshhrh/09335063036-13efb2bb9a1b?source=rss------programming-5)
+- [Between Fear and Hope](https://medium.com/write-a-catalyst/between-fear-and-hope-afbf5ed4e764?source=rss------programming-5)
+- [The Most Confusing JavaScript Code Ever — Can You Solve It?](https://medium.com/lets-code-future/the-most-confusing-javascript-code-ever-can-you-solve-it-f962a1fa8c11?source=rss------programming-5)
+- [React Server Components Limitations and Use Cases](https://javascript.plainenglish.io/react-server-components-limitations-and-use-cases-df0e0079202d?source=rss------programming-5)
+- [How to Push Your Project to GitHub with Ease: A Step-by-Step Guide for Beginners](https://medium.com/@setodraft/how-to-push-your-project-to-github-with-ease-a-step-by-step-guide-for-beginners-309e5d12a98d?source=rss------programming-5)
+- [From Bookmarks to Daily Rituals: The Frontend Tools That Transformed My Workflow](https://medium.com/lets-code-future/from-bookmarks-to-daily-rituals-the-frontend-tools-that-transformed-my-workflow-c0efd095ba62?source=rss------programming-5)
+- [Building Smarter, Not Slower: My Dive into Agentic Coding](https://medium.com/@shawpaw/building-smarter-not-slower-my-dive-into-agentic-coding-da46d3b81442?source=rss------programming-5)
