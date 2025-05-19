@@ -1,48 +1,42 @@
 # 📢 Daily Dev Digest
 
 ### 💼 Latest Job Listings
+- [Manager Engineering II Data Pipelines](https://remoteOK.com/remote-jobs/remote-manager-engineering-ii-data-pipelines-ironclad-1093192)
 - [Visual Designer](https://remoteOK.com/remote-jobs/remote-visual-designer-pip-labs-1093190)
 - [Marketing Design Intern 2025 Summer Intern](https://remoteOK.com/remote-jobs/remote-marketing-design-intern-2025-summer-intern-symmetry-systems-1093189)
 - [Lifecycle Marketing Associate](https://remoteOK.com/remote-jobs/remote-lifecycle-marketing-associate-blueland-1093188)
 - [Member of Product Trading](https://remoteOK.com/remote-jobs/remote-member-of-product-trading-anchorage-digital-1093187)
 - [Associate Attorney](https://remoteOK.com/remote-jobs/remote-associate-attorney-enablecomp-1093185)
 - [](https://remoteOK.com/remote-jobs/remote-1093182)
-- [Member Support Unicorn](https://remoteOK.com/remote-jobs/remote-member-support-unicorn-interaction-design-foundation-1093181)
+- [SH:24 CIC: Software Engineer](https://weworkremotely.com/remote-jobs/sh-24-cic-software-engineer)
+- [Silverfin: Experienced Ruby Engineer - Product Team](https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-engineer-product-team)
+- [Silverfin: Team Lead - Product Engineering Team](https://weworkremotely.com/remote-jobs/silverfin-team-lead-product-engineering-team-1)
 - [BrandChamp: Senior Full-Stack JavaScript Engineer](https://weworkremotely.com/remote-jobs/brandchamp-senior-full-stack-javascript-engineer)
 - [Semaphore: Senior Software Engineer](https://weworkremotely.com/remote-jobs/semaphore-senior-software-engineer-6)
 - [42matches GmbH: Senior Java Developer - 100% remote (m/w/d)](https://weworkremotely.com/remote-jobs/42matches-gmbh-senior-java-developer-100-remote-m-w-d)
 - [Contra: AI Automation Specialist](https://weworkremotely.com/remote-jobs/contra-ai-automation-specialist)
-- [Classy Llama: Candidate Pool - United States & Canada](https://weworkremotely.com/remote-jobs/classy-llama-candidate-pool-united-states-canada)
-- [The Humble Hackers: Low-Ego • High-Impact Developer / Systems Architect](https://weworkremotely.com/remote-jobs/the-humble-hackers-low-ego-high-impact-developer-systems-architect)
-- [OnQueCRM: Laravel/VueJS Developer for Scalable Call Center CRM Platform](https://weworkremotely.com/remote-jobs/onquecrm-laravel-vuejs-developer-for-scalable-call-center-crm-platform)
 
 ### 🎯 Freelance Opportunities
-- [Exciting Game Trailer Creation](https://www.freelancer.com/projects/animation/Exciting-Game-Trailer-Creation.html)
-- [I need a newsletter website ❍](https://www.freelancer.com/projects/postgresql/need-newsletter-website-39419670.html)
-- [Hijab Editing on Images](https://www.freelancer.com/projects/adobe-lightroom/Hijab-Editing-Images.html)
-- [Personal Development Accountability Buddy](https://www.freelancer.com/projects/virtual-assistant/Personal-Development-Accountability-39418359.html)
-- [Telugu language -Focused Hybrid Seeds Social Media advertising](https://www.freelancer.com/projects/social-media-marketing/Telugu-Focused-Hybrid-Seeds-Social.html)
-- [Facebook Ads for Premium Services](https://www.freelancer.com/projects/advertising/Facebook-Ads-for-Premium-Services.html)
-- [Business photo editing service -- 2](https://www.freelancer.com/projects/photoshop/Business-photo-editing-service.html)
+- [Cold Caller &amp; Appointment Setter (Commission-Based)](https://www.freelancer.com/projects/sales/Cold-Caller-Appointment-Setter-39422467.html)
+- [IIT JEE Advanced - Mentor Required for Motivation &amp; Progress Monitoring (Not a Teaching Role)](https://www.freelancer.com/projects/IIT-JEE-Advanced-Mentor-Required.html)
+- [Food Image Enhancement](https://www.freelancer.com/projects/photoshop/Food-Image-Enhancement.html)
+- [Composite Deck with Screened Dining Area](https://www.freelancer.com/projects/building-architecture/Composite-Deck-with-Screened-Dining.html)
+- [College Data Entry Specialist](https://www.freelancer.com/projects/data-entry/College-Data-Entry-Specialist.html)
+- [Powerball Algorithmic Analysis](https://www.freelancer.com/projects/statistical-analysis/Powerball-Algorithmic-Analysis.html)
+- [Experienced Mobile Developer Needed](https://www.freelancer.com/projects/iphone-app-development/Experienced-Mobile-Developer-Needed.html)
 
 ### 📝 Latest Tech Articles
-- [Types of dependencies in package.json file](https://dev.to/hemantgovekar/types-of-dependencies-in-packagejson-file-1i1j)
-- [Operadores Bitwise em Golang](https://dev.to/cristian_tebaldi/operadores-bitwise-em-golang-1144)
-- [`pnpm` setting steps](https://dev.to/shelner/pnpm-setting-steps-3d84)
-- [1931. Painting a Grid With Three Different Colors](https://dev.to/mdarifulhaque/1931-painting-a-grid-with-three-different-colors-1mk8)
-- [Why I Design Like a Bit — Thoughts from a Structure-First Dev](https://dev.to/neopotato/why-i-design-like-a-bit-thoughts-from-a-structure-first-dev-na9)
-- [How to Enable CodeQL Analysis in Your GitHub Repository](https://dev.to/nivicius/how-to-enable-codeql-analysis-in-your-github-repository-5ad3)
-- [Understanding DNS: How Domain Names Become IP Addresses](https://dev.to/daud99/understanding-dns-how-domain-names-become-ip-addresses-2b9h)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@7djjdjekekejnwjwn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7630a3926681?source=rss------programming-5)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@7djjdjekekejnwjwn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-225f28f62a1a?source=rss------programming-5)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@7djjdjekekejnwjwn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-56c94713ae36?source=rss------programming-5)
-- [15 dev survival lessons from someone who actually made it](https://medium.com/@devlink/15-dev-survival-lessons-from-someone-who-actually-made-it-92aa33c4a6a5?source=rss------programming-5)
-- [09931101647شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mojganmohmadei01/09931101647%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3f0c1ca5ed8b?source=rss------programming-5)
-- [09931101647شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mojganmohmadei01/09931101647%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f90c8a8193e8?source=rss------programming-5)
-- [09931101647شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mojganmohmadei01/09931101647%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7d4bdeae5ddd?source=rss------programming-5)
+- [How I Built My Own Home Server for $150 (And Why I Ditched AWS for It)](https://dev.to/mayankdhingra02/how-i-built-my-own-home-server-for-150-and-why-i-ditched-aws-for-it-4ffi)
+- [🎯 Covercraft AI: A Smart Tool for Automated, Personalized Cover Letter Generation](https://dev.to/suvadip_chakraborty_0561a/covercraft-ai-a-smart-tool-for-automated-personalized-cover-letter-generation-baj)
+- [Terminal based Graphical Interface in NodeJs](https://dev.to/leonardopinezi/terminal-based-graphical-interface-in-nodejs-3f05)
+- [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
+- [Advanced Image Editing with the PixLab Online Photo Editor](https://dev.to/unqlite_db/advanced-image-editing-with-the-pixlab-online-photo-editor-2lcj)
+- [Creative Automation: The Future of Design is Here (And It's Amazing)](https://dev.to/atforeveryoung/creative-automation-the-future-of-design-is-here-and-its-amazing-27fk)
+- [Création d'un site web sur S3](https://dev.to/la_grcenkinki_0ae00d92f/creation-dun-site-web-sur-s3-1p9d)
+- [Perangkat Lunak Toko Emas di Depok: Jagoan Buat Bisnismu!](https://medium.com/@ilamoses/perangkat-lunak-toko-emas-di-depok-jagoan-buat-bisnismu-58a6280f44ba?source=rss------programming-5)
+- [0905,734,7308](https://medium.com/@hlrqrwktelegmailcom/0905-734-7308-f90722b65e77?source=rss------programming-5)
+- [0905,734,7308](https://medium.com/@hlrqrwktelegmailcom/0905-734-7308-2394aa55a594?source=rss------programming-5)
+- [0905,734,7308](https://medium.com/@hlrqrwktelegmailcom/0905-734-7308-6c67cfa21a5c?source=rss------programming-5)
+- [Unleashing Python’s Parallel Power: A Practical Guide to Faster Code](https://medium.com/@erichoward_83349/unleashing-pythons-parallel-power-a-practical-guide-to-faster-code-40f8a27a5254?source=rss------programming-5)
+- [Top 20 Python Data-Science Interview Questions 2025 + 5 Essential Concepts Every Data Scientist…](https://medium.com/@vadimtyuryaev/top-20-python-data-science-interview-questions-2025-5-essential-concepts-every-data-scientist-6b37dbfcc5de?source=rss------programming-5)
+- [OpenAI is Planning Something Huge — Why the Windsurf Acquisition is Bigger Than You Thought](https://ai.plainenglish.io/openai-is-planning-something-huge-why-the-windsurf-acquisition-is-bigger-than-you-thought-20ee224b0035?source=rss------programming-5)
