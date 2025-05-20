@@ -17,26 +17,33 @@
 - [Contra: AI Automation Specialist](https://weworkremotely.com/remote-jobs/contra-ai-automation-specialist)
 
 ### 🎯 Freelance Opportunities
-- [Cold Caller &amp; Appointment Setter (Commission-Based)](https://www.freelancer.com/projects/sales/Cold-Caller-Appointment-Setter-39422467.html)
-- [IIT JEE Advanced - Mentor Required for Motivation &amp; Progress Monitoring (Not a Teaching Role)](https://www.freelancer.com/projects/IIT-JEE-Advanced-Mentor-Required.html)
-- [Food Image Enhancement](https://www.freelancer.com/projects/photoshop/Food-Image-Enhancement.html)
-- [Composite Deck with Screened Dining Area](https://www.freelancer.com/projects/building-architecture/Composite-Deck-with-Screened-Dining.html)
-- [College Data Entry Specialist](https://www.freelancer.com/projects/data-entry/College-Data-Entry-Specialist.html)
-- [Powerball Algorithmic Analysis](https://www.freelancer.com/projects/statistical-analysis/Powerball-Algorithmic-Analysis.html)
-- [Experienced Mobile Developer Needed](https://www.freelancer.com/projects/iphone-app-development/Experienced-Mobile-Developer-Needed.html)
+- [Furniture Product Catalog Design](https://www.freelancer.com/projects/graphic-design/Furniture-Product-Catalog-Design.html)
+- [Urgent COMSOL Plasma Antenna Simulation](https://www.freelancer.com/projects/finite-element-analysis/Urgent-COMSOL-Plasma-Antenna-Simulation.html)
+- [Cold Email Outreach Specialist -- 4](https://www.freelancer.com/projects/bulk-marketing/Cold-Email-Outreach-Specialist-39425327.html)
+- [Motion Sensor Monitoring Device Development](https://www.freelancer.com/projects/microcontroller/Motion-Sensor-Monitoring-Device.html)
+- [Create a Wikipedia Biography](https://www.freelancer.com/projects/wikipedia/Create-Wikipedia-Biography-39426082.html)
+- [Business Report Editing](https://www.freelancer.com/projects/editing/Business-Report-Editing-39426080.html)
+- [Classic Titanium Watch Case Design](https://www.freelancer.com/projects/product-design/Classic-Titanium-Watch-Case-Design.html)
 
 ### 📝 Latest Tech Articles
-- [How I Built My Own Home Server for $150 (And Why I Ditched AWS for It)](https://dev.to/mayankdhingra02/how-i-built-my-own-home-server-for-150-and-why-i-ditched-aws-for-it-4ffi)
-- [🎯 Covercraft AI: A Smart Tool for Automated, Personalized Cover Letter Generation](https://dev.to/suvadip_chakraborty_0561a/covercraft-ai-a-smart-tool-for-automated-personalized-cover-letter-generation-baj)
-- [Terminal based Graphical Interface in NodeJs](https://dev.to/leonardopinezi/terminal-based-graphical-interface-in-nodejs-3f05)
-- [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
-- [Advanced Image Editing with the PixLab Online Photo Editor](https://dev.to/unqlite_db/advanced-image-editing-with-the-pixlab-online-photo-editor-2lcj)
-- [Creative Automation: The Future of Design is Here (And It's Amazing)](https://dev.to/atforeveryoung/creative-automation-the-future-of-design-is-here-and-its-amazing-27fk)
-- [Création d'un site web sur S3](https://dev.to/la_grcenkinki_0ae00d92f/creation-dun-site-web-sur-s3-1p9d)
-- [Perangkat Lunak Toko Emas di Depok: Jagoan Buat Bisnismu!](https://medium.com/@ilamoses/perangkat-lunak-toko-emas-di-depok-jagoan-buat-bisnismu-58a6280f44ba?source=rss------programming-5)
-- [0905,734,7308](https://medium.com/@hlrqrwktelegmailcom/0905-734-7308-f90722b65e77?source=rss------programming-5)
-- [0905,734,7308](https://medium.com/@hlrqrwktelegmailcom/0905-734-7308-2394aa55a594?source=rss------programming-5)
-- [0905,734,7308](https://medium.com/@hlrqrwktelegmailcom/0905-734-7308-6c67cfa21a5c?source=rss------programming-5)
-- [Unleashing Python’s Parallel Power: A Practical Guide to Faster Code](https://medium.com/@erichoward_83349/unleashing-pythons-parallel-power-a-practical-guide-to-faster-code-40f8a27a5254?source=rss------programming-5)
-- [Top 20 Python Data-Science Interview Questions 2025 + 5 Essential Concepts Every Data Scientist…](https://medium.com/@vadimtyuryaev/top-20-python-data-science-interview-questions-2025-5-essential-concepts-every-data-scientist-6b37dbfcc5de?source=rss------programming-5)
-- [OpenAI is Planning Something Huge — Why the Windsurf Acquisition is Bigger Than You Thought](https://ai.plainenglish.io/openai-is-planning-something-huge-why-the-windsurf-acquisition-is-bigger-than-you-thought-20ee224b0035?source=rss------programming-5)
+- [How to upgrade n8n uses Docker on DigitalOcean](https://dev.to/andywahyudi/how-to-upgrade-n8n-uses-docker-on-digitalocean-1jn1)
+- [Detecting SSH Brute Force Attacks with Python: Building a Simple Monitor](https://dev.to/hexshift/detecting-ssh-brute-force-attacks-with-python-building-a-simple-monitor-3mon)
+- [Separating Logic from UI in React: A Comparison with Angular Services](https://dev.to/rcrd/separating-logic-from-ui-in-react-a-comparison-with-angular-services-5en)
+- [I'm currently taking an Intermission/break from posting and sharing so that I can focus more on my work and studies. My part-time studies is in the final stretch, so I need to give it my full attention. #takingabreak](https://dev.to/d2d_weizhi/im-currently-taking-an-intermissionbreak-from-posting-and-sharing-so-that-i-can-focus-more-on-my-4ijk)
+- [Mengapa Ethereum Tetap Menjadi Pilihan Utama Trader Kripto Indonesia di 2025: Analisis Mendalam dan Peluang](https://dev.to/kallileiser/mengapa-ethereum-tetap-menjadi-pilihan-utama-trader-kripto-indonesia-di-2025-analisis-mendalam-dan-45jo)
+- [🎭 Must-Know CSS Pseudo-elements (and When to Use Them)](https://dev.to/sejutaimpian/must-know-css-pseudo-elements-and-when-to-use-them-3a48)
+- [Por dentro da estrutura de dados dicionário (hash map)](https://dev.to/gabrieljbpessoa_96/por-dentro-da-estrutura-de-dados-dicionario-hash-map-2kl0)
+- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dystdydddg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e2dc972c2859?source=rss------programming-5)
+- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dystdydddg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6c1d94ca97a4?source=rss------programming-5)
+- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dystdydddg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-29c4e1174b28?source=rss------programming-5)
+- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fhdyyddhdydhdg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-26ac500f47bf?source=rss------programming-5)
+- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fhdyyddhdydhdg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-374c5de4c28d?source=rss------programming-5)
+- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fhdyyddhdydhdg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d0edc8a574da?source=rss------programming-5)
+- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xhdhhddhdhdh730/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6d2935ccb990?source=rss------programming-5)
