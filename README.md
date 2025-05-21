@@ -1,49 +1,42 @@
 # 📢 Daily Dev Digest
 
 ### 💼 Latest Job Listings
+- [Member of Product Marketing Protocols](https://remoteOK.com/remote-jobs/remote-member-of-product-marketing-protocols-anchorage-digital-1093197)
 - [Manager Engineering II Data Pipelines](https://remoteOK.com/remote-jobs/remote-manager-engineering-ii-data-pipelines-ironclad-1093192)
 - [Visual Designer](https://remoteOK.com/remote-jobs/remote-visual-designer-pip-labs-1093190)
 - [Marketing Design Intern 2025 Summer Intern](https://remoteOK.com/remote-jobs/remote-marketing-design-intern-2025-summer-intern-symmetry-systems-1093189)
 - [Lifecycle Marketing Associate](https://remoteOK.com/remote-jobs/remote-lifecycle-marketing-associate-blueland-1093188)
 - [Member of Product Trading](https://remoteOK.com/remote-jobs/remote-member-of-product-trading-anchorage-digital-1093187)
 - [Associate Attorney](https://remoteOK.com/remote-jobs/remote-associate-attorney-enablecomp-1093185)
-- [](https://remoteOK.com/remote-jobs/remote-1093182)
+- [Contra: Senior Software Engineer](https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-3)
 - [SH:24 CIC: Software Engineer](https://weworkremotely.com/remote-jobs/sh-24-cic-software-engineer)
 - [Silverfin: Experienced Ruby Engineer - Product Team](https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-engineer-product-team)
 - [Silverfin: Team Lead - Product Engineering Team](https://weworkremotely.com/remote-jobs/silverfin-team-lead-product-engineering-team-1)
 - [BrandChamp: Senior Full-Stack JavaScript Engineer](https://weworkremotely.com/remote-jobs/brandchamp-senior-full-stack-javascript-engineer)
 - [Semaphore: Senior Software Engineer](https://weworkremotely.com/remote-jobs/semaphore-senior-software-engineer-6)
 - [42matches GmbH: Senior Java Developer - 100% remote (m/w/d)](https://weworkremotely.com/remote-jobs/42matches-gmbh-senior-java-developer-100-remote-m-w-d)
-- [Contra: AI Automation Specialist](https://weworkremotely.com/remote-jobs/contra-ai-automation-specialist)
 
 ### 🎯 Freelance Opportunities
-- [Furniture Product Catalog Design](https://www.freelancer.com/projects/graphic-design/Furniture-Product-Catalog-Design.html)
-- [Urgent COMSOL Plasma Antenna Simulation](https://www.freelancer.com/projects/finite-element-analysis/Urgent-COMSOL-Plasma-Antenna-Simulation.html)
-- [Cold Email Outreach Specialist -- 4](https://www.freelancer.com/projects/bulk-marketing/Cold-Email-Outreach-Specialist-39425327.html)
-- [Motion Sensor Monitoring Device Development](https://www.freelancer.com/projects/microcontroller/Motion-Sensor-Monitoring-Device.html)
-- [Create a Wikipedia Biography](https://www.freelancer.com/projects/wikipedia/Create-Wikipedia-Biography-39426082.html)
-- [Business Report Editing](https://www.freelancer.com/projects/editing/Business-Report-Editing-39426080.html)
-- [Classic Titanium Watch Case Design](https://www.freelancer.com/projects/product-design/Classic-Titanium-Watch-Case-Design.html)
+- [Modern Enrollment Website for Career College](https://www.freelancer.com/projects/website-design/Modern-Enrollment-Website-for-Career.html)
+- [Vibrant Alcohol-Themed Social Media Platform](https://www.freelancer.com/projects/website-design/Vibrant-Alcohol-Themed-Social-Media.html)
+- [Full Stack Developer for Firebase App](https://www.freelancer.com/projects/typescript/Full-Stack-Developer-for-Firebase.html)
+- [No-Code Automation Specialist](https://www.freelancer.com/projects/salesforce-com/Code-Automation-Specialist.html)
+- [Xojo Web App Development](https://www.freelancer.com/projects/software-development/Xojo-Web-App-Development.html)
+- [TDS Filing and Review](https://www.freelancer.com/projects/accounting/TDS-Filing-Review.html)
+- [Auto Sale Photography](https://www.freelancer.com/projects/rendering/Auto-Sale-Photography.html)
 
 ### 📝 Latest Tech Articles
-- [How to upgrade n8n uses Docker on DigitalOcean](https://dev.to/andywahyudi/how-to-upgrade-n8n-uses-docker-on-digitalocean-1jn1)
-- [Detecting SSH Brute Force Attacks with Python: Building a Simple Monitor](https://dev.to/hexshift/detecting-ssh-brute-force-attacks-with-python-building-a-simple-monitor-3mon)
-- [Separating Logic from UI in React: A Comparison with Angular Services](https://dev.to/rcrd/separating-logic-from-ui-in-react-a-comparison-with-angular-services-5en)
-- [I'm currently taking an Intermission/break from posting and sharing so that I can focus more on my work and studies. My part-time studies is in the final stretch, so I need to give it my full attention. #takingabreak](https://dev.to/d2d_weizhi/im-currently-taking-an-intermissionbreak-from-posting-and-sharing-so-that-i-can-focus-more-on-my-4ijk)
-- [Mengapa Ethereum Tetap Menjadi Pilihan Utama Trader Kripto Indonesia di 2025: Analisis Mendalam dan Peluang](https://dev.to/kallileiser/mengapa-ethereum-tetap-menjadi-pilihan-utama-trader-kripto-indonesia-di-2025-analisis-mendalam-dan-45jo)
-- [🎭 Must-Know CSS Pseudo-elements (and When to Use Them)](https://dev.to/sejutaimpian/must-know-css-pseudo-elements-and-when-to-use-them-3a48)
-- [Por dentro da estrutura de dados dicionário (hash map)](https://dev.to/gabrieljbpessoa_96/por-dentro-da-estrutura-de-dados-dicionario-hash-map-2kl0)
-- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dystdydddg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e2dc972c2859?source=rss------programming-5)
-- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dystdydddg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6c1d94ca97a4?source=rss------programming-5)
-- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dystdydddg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-29c4e1174b28?source=rss------programming-5)
-- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fhdyyddhdydhdg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-26ac500f47bf?source=rss------programming-5)
-- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fhdyyddhdydhdg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-374c5de4c28d?source=rss------programming-5)
-- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fhdyyddhdydhdg/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d0edc8a574da?source=rss------programming-5)
-- [09304098140شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xhdhhddhdhdh730/09304098140%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6d2935ccb990?source=rss------programming-5)
+- [👀 👀](https://dev.to/maxprilutskiy/-5hk)
+- [PWC 322 String Format](https://dev.to/boblied/pwc-322-string-format-33pd)
+- [HTML5 Elements You Didn't Know You Need](https://dev.to/maxprilutskiy/html5-elements-you-didnt-know-you-need-gan)
+- [Listing Microsoft 365 Services](https://dev.to/ranjit_rimal_3bfb1aea03e6/list-your-microsoft-365-services-43ok)
+- [PowerShell Script to Retrieve baseline configuration for Exchange Online](https://dev.to/ranjit_rimal_3bfb1aea03e6/powershell-script-to-retrieve-baseline-configuration-for-exchange-online-2j56)
+- [Verilerinizi Yöneterek İşinizi Geleceğe Hazırlayın](https://dev.to/yunus_emremert_1756b71d3/verilerinizi-yoneterek-isinizi-gelecege-hazirlayin-2oif)
+- [react interview questions](https://dev.to/subhasishnath45/react-interview-questions-3il6)
+- [How I Use AI Code Suggestions Without Letting My Code Quality Suffer](https://medium.com/@inamullahkhan_58194/how-i-use-ai-code-suggestions-without-letting-my-code-quality-suffer-0725926f7cfc?source=rss------programming-5)
+- [Berkenalan Dengan Python Untuk Pemula](https://medium.com/@yesayasentosa/berkenalan-dengan-python-untuk-pemula-5459e31f8bff?source=rss------programming-5)
+- [Rust in AI Development](https://medium.com/@andriat41/rust-in-ai-development-fe4393cc6be0?source=rss------programming-5)
+- [Leetcode#283: Move Zeroes](https://medium.com/deluxify/leetcode-283-move-zeroes-b1b3145f417c?source=rss------programming-5)
+- [09370673570](https://medium.com/@mnbvcxzxx6654/09370673570-29c80211a194?source=rss------programming-5)
+- [09370673570](https://medium.com/@mnbvcxzxx6654/09370673570-d6f6556db809?source=rss------programming-5)
+- [09370673570](https://medium.com/@mnbvcxzxx6654/09370673570-65ace3e1237a?source=rss------programming-5)
