@@ -1,5 +1,9 @@
 [
     {
+        "title": "Technical Lead DevOps",
+        "link": "https://remoteOK.com/remote-jobs/remote-technical-lead-devops-magnet-forensics-1093224"
+    },
+    {
         "title": "Full Stack Engineer",
         "link": "https://remoteOK.com/remote-jobs/remote-full-stack-engineer-medialab-1093223"
     },
@@ -24,8 +28,20 @@
         "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-backend-fullstack-sei-labs-1093215"
     },
     {
-        "title": "Jr Business Analyst",
-        "link": "https://remoteOK.com/remote-jobs/remote-jr-business-analyst-healthcare-1093213"
+        "title": "NaviPartner: Senior Software Engineer, Microsoft Dynamics 365 BC Developer",
+        "link": "https://weworkremotely.com/remote-jobs/navipartner-senior-software-engineer-microsoft-dynamics-365-bc-developer"
+    },
+    {
+        "title": "Shotstack: Full-Stack Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/shotstack-full-stack-engineer"
+    },
+    {
+        "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
+        "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
+    },
+    {
+        "title": "Elevate Labs: Senior Backend Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/elevate-labs-senior-backend-engineer-1"
     },
     {
         "title": "Maharishi Foundation International: Senior Mobile Engineer",
@@ -38,21 +54,5 @@
     {
         "title": "Commure - Brazil: Fullstack Software Engineer - Brazil",
         "link": "https://weworkremotely.com/remote-jobs/commure-brazil-fullstack-software-engineer-brazil"
-    },
-    {
-        "title": "Monadical: Senior Full-Stack Developer",
-        "link": "https://weworkremotely.com/remote-jobs/monadical-senior-full-stack-developer"
-    },
-    {
-        "title": "Anexia Internetdienstleistungs: Linux System Engineer (M/W/D)",
-        "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-linux-system-engineer-m-w-d"
-    },
-    {
-        "title": "Reedsy: Freelance Web Designer",
-        "link": "https://weworkremotely.com/remote-jobs/reedsy-freelance-web-designer"
-    },
-    {
-        "title": "Contra: Framer Expert",
-        "link": "https://weworkremotely.com/remote-jobs/contra-framer-expert"
     }
 ]
