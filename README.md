@@ -1,13 +1,13 @@
 # 📢 Daily Dev Digest
 
 ### 💼 Latest Job Listings
+- [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257)
+- [Frontend Software Engineer](https://remoteOK.com/remote-jobs/remote-frontend-software-engineer-bitwise-asset-management-1093256)
+- [Wattpad Marketing Intern](https://remoteOK.com/remote-jobs/remote-wattpad-marketing-intern-webtoon-entertainment-inc-wattpad-amp-webtoon-family-of-brands-1093255)
+- [SEO guest posting & outreach freelancer](https://remoteOK.com/remote-jobs/remote-seo-guest-posting-outreach-freelancer-pagesection-com-1093254)
+- [Senior Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-lemon-io-1093252)
 - [Senior Account Lead](https://remoteOK.com/remote-jobs/remote-senior-account-lead-sanctuary-computer-1093250)
 - [Developer Productivity Engineer](https://remoteOK.com/remote-jobs/remote-developer-productivity-engineer-narwhal-technologies-inc-1093249)
-- [Growth Analyst Financial Institutions Group](https://remoteOK.com/remote-jobs/remote-growth-analyst-financial-institutions-group-anchorage-digital-1093248)
-- [Paid Media Designer](https://remoteOK.com/remote-jobs/remote-paid-media-designer-flex-1093247)
-- [Spanish Speaking Software Support Engineer](https://remoteOK.com/remote-jobs/remote-spanish-speaking-software-support-engineer-payara-1093246)
-- [Full Stack .NET Developer](https://remoteOK.com/remote-jobs/remote-full-stack-net-developer-smart-working-solutions-1093245)
-- [Typescript Engineer](https://remoteOK.com/remote-jobs/remote-typescript-engineer-wander-com-1093244)
 - [Proxify AB: Senior Laravel Developer](https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-1)
 - [Proxify AB: Senior Ruby on Rails Developer](https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-1)
 - [Truestory: Backend Developer (C# & .NET)](https://weworkremotely.com/remote-jobs/truestory-backend-developer-c-net-1)
@@ -17,29 +17,30 @@
 - [Elevate Labs: Senior Backend Engineer](https://weworkremotely.com/remote-jobs/elevate-labs-senior-backend-engineer-1)
 
 ### 🎯 Freelance Opportunities
-- [YouTube Stories Creation](https://www.freelancer.com/projects/video-editing/YouTube-Stories-Creation.html)
-- [Nook Designs_ -- 2](https://www.freelancer.com/projects/logo-design/Nook-Designs.html)
-- [Nook Designs_](https://www.freelancer.com/projects/graphic-design/Nook-Designs.html)
-- [Bold, Broadway-style Poster for Revolutionary Musical](https://www.freelancer.com/projects/graphic-design/Bold-Broadway-style-Poster-for.html)
-- [Figma to React Android UI Conversion](https://www.freelancer.com/projects/mobile-app-development/Figma-React-Android-Conversion.html)
-- [Hitta en svensk produkt](https://www.freelancer.com/projects/product-research/Hitta-svensk-produkt.html)
-- [Web Scraping para obtener todos los datos de productos de una p&aacute;gina.](https://www.freelancer.com/projects/web-scraping/Web-Scraping-para-obtener-todos.html)
+- [Lottie Animator for Gamified Habit Tracker App](https://www.freelancer.com/projects/animation/Lottie-Animator-for-Gamified-Habit.html)
+- [BlueStacks Emulator Location Testing Tool](https://www.freelancer.com/projects/android/BlueStacks-Emulator-Location-Testing.html)
+- [Web Data and Image Scraping](https://www.freelancer.com/projects/data-mining/Web-Data-Image-Scraping.html)
+- [CoreML iOS/Android Translation App Development](https://www.freelancer.com/projects/iphone-app-development/CoreML-iOS-Android-Translation-App.html)
+- [Digital Audio System Design AOIP](https://www.freelancer.com/projects/electronics/Digital-Audio-System-Design-AOIP.html)
+- [Presentaci&oacute;n T&eacute;cnica sobre ALU y L&oacute;gica Combinacional](https://www.freelancer.com/projects/digital-electronics/Presentaci-cnica-sobre-ALU-gica.html)
+- [iPhone Image Collection for Object Recognition in Hindi Language](https://www.freelancer.com/projects/iphone-app-development/iPhone-Image-Collection-for-Object.html)
 
 ### 📝 Latest Tech Articles
-- [Build an AI Fashion Assistant in Django - Full Tutorial (w/ videos)](https://dev.to/domvacchiano/build-an-ai-fashion-assistant-in-django-full-tutorial-w-videos-3414)
-- [Practical Development of Real Estate and Renovation Applications Based on HarmonyOS Next](https://dev.to/linzhongxue/practical-development-of-real-estate-and-renovation-applications-based-on-harmonyos-next-47lo)
-- [🚀 Combining Multiple APIs Into a Unified Service Using Martini](https://dev.to/lonti-davidb/combining-multiple-apis-into-a-unified-service-using-martini-2bf4)
-- [[AWS][Build Games]I created an AWS puzzle game using Amazon Q CLI!](https://dev.to/masakiokuda/awsbuild-gamesi-created-an-aws-puzzle-game-using-amazon-q-cli-36m2)
-- [Practical Development of Smart Real Estate and Renovation Applications Based on HarmonyOS Next](https://dev.to/linzhongxue/practical-development-of-smart-real-estate-and-renovation-applications-based-on-harmonyos-next-1kkk)
-- [A Complete Guide to Developing Real Estate and Renovation Apps Based on HarmonyOS Next](https://dev.to/linzhongxue/a-complete-guide-to-developing-real-estate-and-renovation-apps-based-on-harmonyos-next-213h)
-- [Practical Development of Lifestyle Service Applications Based on HarmonyOS Next: AppGallery Connect Integration Guide](https://dev.to/linzhongxue/practical-development-of-lifestyle-service-applications-based-on-harmonyos-next-appgallery-connect-1ol3)
-- [Understanding Inheritance in Java](https://medium.com/java-rewind/understanding-inheritance-in-java-4bcc97e586e4?source=rss------programming-5)
-- [09389010538شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ijnb18467/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2bdcfa2e0239?source=rss------programming-5)
-- [09389010538شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ijnb18467/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-884f06b8d41d?source=rss------programming-5)
-- [09389010538شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ijnb18467/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d3fe21024aed?source=rss------programming-5)
-- [0905.501.9190شماره خاله گرگان شماره خاله ساری شماره خاله بابلسر](https://medium.com/@jvv_34490/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-5445f80d350d?source=rss------programming-5)
-- [0905.501.9190شماره خاله گرگان شماره خاله ساری شماره خاله بابلسر](https://medium.com/@jvv_34490/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-f783fb9adba1?source=rss------programming-5)
-- [0905.501.9190شماره خاله گرگان شماره خاله ساری شماره خاله بابلسر](https://medium.com/@jvv_34490/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-13c193468f50?source=rss------programming-5)
+- [Web Performansını İyileştirme Rehberi](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestirme-rehberi-1f2)
+- [I Benchmarked 8 “AI Image Compression” Tools Using a 20MB File — Only Two Passed](https://dev.to/engineeredai/i-benchmarked-8-ai-image-compression-tools-using-a-20mb-file-only-two-passed-1hmi)
+- [Smardex: A Step-by-Step Guide to Smarter Liquidity Provision in DeFi](https://dev.to/klaret_johnston_02cd7da07/smardex-a-step-by-step-guide-to-smarter-liquidity-provision-in-defi-4i55)
+- [🧠 Caso real: cuando .populate() no es suficiente (y lo que aprendí integrando MongoDB con Oracle)](https://dev.to/eduuu_dev/caso-real-cuando-populate-no-es-suficiente-y-lo-que-aprendi-integrando-mongodb-con-oracle-1lbo)
+- [Fix for Chrome Browser CORS error - stale cache](https://dev.to/segebee/fix-for-chrome-browser-cors-error-stale-cache-56l7)
+- [Ex.4](https://dev.to/syntaxlailaaa/ex4-3jl9)
+- [✨Linux Wizardry Continued: SUID, SGID, and the Sticky Bit](https://dev.to/ldwit/linux-wizardry-continued-suid-sgid-and-the-sticky-bit-4b3b)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shomare123khall/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1f74f32901a1?source=rss------programming-5)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shomare123khall/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fdc3f61f410f?source=rss------programming-5)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shomare123khall/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-93b4e6270ff3?source=rss------programming-5)
+- [LeetCode: Power of Two | Let's Crack Google](https://medium.com/@jaydeepdnai.imscit20/leetcode-power-of-two-lets-crack-google-44d920ea07e4?source=rss------programming-5)
+- [Designing Programming Languages for Intuitive Brain-to-Code Translation](https://medium.com/@epicbytecraft/designing-programming-languages-for-intuitive-brain-to-code-translation-892cd86b8f21?source=rss------programming-5)
+- [0905.501.9190شماره خاله سراوان شماره خاله چابهار شماره خاله کرج](https://medium.com/@ndjd/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-53877a138820?source=rss------programming-5)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@rmzhgan676/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-431612afc308?source=rss------programming-5)
