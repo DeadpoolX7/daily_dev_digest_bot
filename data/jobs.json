@@ -1,5 +1,13 @@
 [
     {
+        "title": "Senior Full Stack Engineer",
+        "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-elevate-1093263"
+    },
+    {
+        "title": "DeFi Sales & Business Development Manager",
+        "link": "https://remoteOK.com/remote-jobs/remote-defi-sales-business-development-manager-helix-1093261"
+    },
+    {
         "title": "Senior Backend Engineer",
         "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257"
     },
@@ -20,12 +28,16 @@
         "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-lemon-io-1093252"
     },
     {
-        "title": "Senior Account Lead",
-        "link": "https://remoteOK.com/remote-jobs/remote-senior-account-lead-sanctuary-computer-1093250"
+        "title": "Proxify AB: Senior React Native Developer",
+        "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-1"
     },
     {
-        "title": "Developer Productivity Engineer",
-        "link": "https://remoteOK.com/remote-jobs/remote-developer-productivity-engineer-narwhal-technologies-inc-1093249"
+        "title": "Proxify AB: Senior Symfony Developer",
+        "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-symfony-developer-1"
+    },
+    {
+        "title": "Proxify AB: Senior Shopify Developer",
+        "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer-2"
     },
     {
         "title": "Proxify AB: Senior Laravel Developer",
@@ -42,17 +54,5 @@
     {
         "title": "NaviPartner: Senior Software Engineer, Microsoft Dynamics 365 BC Developer",
         "link": "https://weworkremotely.com/remote-jobs/navipartner-senior-software-engineer-microsoft-dynamics-365-bc-developer"
-    },
-    {
-        "title": "Shotstack: Full-Stack Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/shotstack-full-stack-engineer"
-    },
-    {
-        "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-        "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
-    },
-    {
-        "title": "Elevate Labs: Senior Backend Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/elevate-labs-senior-backend-engineer-1"
     }
 ]
